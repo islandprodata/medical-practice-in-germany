@@ -1,0 +1,501 @@
+country,founded,id,industry,linkedin_url,locality,name,region,size,website
+germany,,QzgWZ4YLJmG9sPQai5BB5Ajbmm1B,medical practice,linkedin.com/company/hans-jürgen-böhler-praxis-für-naturheilkunde,offenbach an der queich,hans-jürgen böhler praxis für naturheilkunde,rhineland-palatinate,1-10,geistiges-heilen-boehler.de
+germany,,vjO2Vvnygd8B4XdMn4BPYgaomkBb,medical practice,linkedin.com/company/praxis-dr.-oliver-marx,ettlingen,praxis dr. oliver marx,baden-württemberg,1-10,marx-arzt.de
+germany,,XXEUoGvIuHDpU9CuzWPVwQ8z4HrN,medical practice,linkedin.com/company/johannes-kossen,nordholz,johannes kossen,lower saxony,1-10,praxis-dr-kossen.de
+germany,,DySIB13uhWJOFXNce2xrxgdzbr0z,medical practice,linkedin.com/company/markus-otto,oderwitz,markus otto,saxony,1-10,otto-im-web.de
+germany,,Bj5xDsBvzHy34dfU6epLjQ28ixRF,medical practice,linkedin.com/company/dr.-med.-steffen-odenwald,stuttgart,dr. med. steffen odenwald,baden-württemberg,1-10,dr-odenwald.de
+germany,,DRf7ytslYmd8WHA3o2K1BALQcF3Z,medical practice,linkedin.com/company/dr.-ibbeken,bad zwischenahn,dr. ibbeken,lower saxony,1-10,dr-ibbeken.de
+germany,,Otkr5g3Rf0CyYZdwi6BPtgpNtXKx,medical practice,linkedin.com/company/impressum-—-die-innenstadtpraxis,augsburg,impressum — die innenstadtpraxis,bavaria,11-50,innenstadtpraxis-augsburg.de
+germany,,XXWzVsYSnn0YbM4XJDZC6wMVQTTV,medical practice,linkedin.com/company/helios-klinikum-erfurt-klinik-für-urologie,erfurt,helios klinikum erfurt klinik für urologie,thuringia,1-10,
+germany,,BG9Twr0jt1qgCAfE8eDZsgzZNm85,medical practice,linkedin.com/company/dr.-med.-silke-philipp,oranienburg,dr. med. silke philipp,brandenburg,1-10,
+germany,,fnMJXu3tBvAEhwYrsnmtRwGuzYUK,medical practice,linkedin.com/company/karin-vogel,augsburg,karin vogel,bavaria,1-10,karinvogel.de
+germany,,dFd4FvrMk8WrpOfbXFcW8QPgv1V0,medical practice,linkedin.com/company/praxis-für-schmerztherapie-und-ästhetik,jüchen,praxis für schmerztherapie und ästhetik,north rhine-westphalia,1-10,schmerzfreischoen.de
+germany,,IkB7Xwv5JIekDD8WEgAjlwqJWB0t,medical practice,linkedin.com/company/dr.-med.-tobias-zimmermann,sonsbeck,dr. med. tobias zimmermann,north rhine-westphalia,1-10,zimmermann-sonsbeck.de
+germany,,01wCze3301Zs8imaKHBdtA5AUGjs,medical practice,linkedin.com/company/mathilden-hospital-ggmbh,herford,mathilden-hospital ggmbh,north rhine-westphalia,1-10,
+germany,,hCnKWeutIG7GeKTAlkp4Ugshd7LY,medical practice,linkedin.com/company/phönix-seniorenzentrum-ulmenhof,dreieich,phönix seniorenzentrum ulmenhof,hesse,1-10,
+germany,,bWM27vxWL0hxCsCiw5phPQduUUEU,medical practice,linkedin.com/company/bauchgefuehl-hebammenpraxis-geburtshaus-halle,halle,bauchgefuehl hebammenpraxis geburtshaus halle,saxony-anhalt,1-10,bauchgefuehl-halle.de
+germany,,2905uEMKjK8BenBkpKY4jQB42nrK,medical practice,linkedin.com/company/oppk,münster,oppk,north rhine-westphalia,1-10,oppk.de
+germany,,SqbDXmid22fSeluqcU6LJAN4WMuA,medical practice,linkedin.com/company/urologie-am-kaiserdamm,berlin,urologie am kaiserdamm,berlin,1-10,urologie-kaiserdamm.de
+germany,,kiyTqtPwFcpCc7qlYfRDjAedBZyZ,medical practice,linkedin.com/company/karina-witten,selsingen,karina witten,lower saxony,1-10,physio-selsingen.de
+germany,,TaSSpbCBOz4Bv9MPFB6Ybgzady6N,medical practice,linkedin.com/company/dr.med.dent.-timo-mutz-zahnarzt,düsseldorf,dr.med.dent. timo mutz zahnarzt,north rhine-westphalia,1-10,zahnaerzte-benrath.de
+germany,,cCDk4VKSAxN1ZMoKij7t9wcVaG1G,medical practice,linkedin.com/company/carl-thiem-klinikum-chirurgische-klinik,cottbus,carl-thiem-klinikum chirurgische klinik,brandenburg,1-10,
+germany,,7U7LMo9JJND8WQM2gynqxwPRDptl,medical practice,linkedin.com/company/dr.med.dent.-philipp-stoll-zahnarzt,klettgau,dr.med.dent. philipp stoll zahnarzt,baden-württemberg,1-10,zahnarzt-stoll.de
+germany,,EBPAJ2qFs53T7m5hCd93XgyC5dWw,medical practice,linkedin.com/company/dr.med.-horst-hohmuth-facharzt-für-urologie,ulm,dr.med. horst hohmuth facharzt für urologie,baden-württemberg,1-10,hohmuth.de
+germany,,grPA6CFkcKhMhpv2epbRVwqUFznB,medical practice,linkedin.com/company/dr.-med.-dent.-ilka-eisener,bad vilbel,dr. med. dent. ilka eisener,hesse,1-10,
+germany,,Un2uAOS7z5I3doOPUbqJWgzjGjOf,medical practice,linkedin.com/company/dr.med.-johannes-frevel-facharzt-für-allgemeinmedizin,fulda,dr.med. johannes frevel facharzt für allgemeinmedizin,hesse,1-10,praxis-frevel.de
+germany,,3N9xnp4PVSVXkhX6CZyDEAhBjSfg,medical practice,linkedin.com/company/detlef-volmer-zahnarzt,bad arolsen,detlef volmer zahnarzt,hesse,1-10,zahnarzt-volmer.de
+germany,,ul3N6mu8kgZ6WW1faeS8Ggf0Xrri,medical practice,linkedin.com/company/iceberg.de,hannover,iceberg.de,lower saxony,1-10,iceberg.de
+germany,2000,15hF1AW2BzKBcbqvvdT2Jw9aZSJN,medical practice,linkedin.com/company/netzwerk-evidenzbasierte-medizin,,netzwerk evidenzbasierte medizin e.v. (ebm-netzwerk),berlin,501-1000,ebm-netzwerk.de
+germany,,iDxTD2CAlcBCdxQT6uyF7Ql3DNqx,medical practice,linkedin.com/company/jürgen-und-margaretha-petruck,trossingen,jürgen und margaretha petruck,baden-württemberg,11-50,praxis-petruck.jimdo.com
+germany,,Fyqq4snACL6HlSRswbwnoAv3LsYK,medical practice,linkedin.com/company/gudrun-thomas,bremen,gudrun thomas,bremen,1-10,physio-blumenthal.de
+germany,,bNqWU3FFrFlVMygVIN82OgGfR0lZ,medical practice,linkedin.com/company/diakonieanstalten-bad-kreuznach,rhaunen,diakonieanstalten bad kreuznach,rhineland-palatinate,1-10,
+germany,2008,XuUDapom6b59AeyeDSIubQegnHTo,medical practice,linkedin.com/company/klinikfinder.de,düsseldorf,klinikfinder.de,north rhine-westphalia,1-10,klinikfinder.de
+germany,,lSO1aPyfC6EwHzNg7Z7v3ARXsIV3,medical practice,linkedin.com/company/facharztpraxis-für-dermatologie---mein-hautarzt.de,hamburg,facharztpraxis für dermatologie - mein-hautarzt.de,hamburg,1-10,mein-hautarzt.de
+germany,,8dMPUffVCcBSlrGtmrESOgXapq7i,medical practice,linkedin.com/company/holger-mühling,munich,holger mühling,bavaria,1-10,dr-muehling.de
+germany,,ovPI9UJrBptD8avCRflCZgckYbuF,medical practice,linkedin.com/company/pflegedienst-berlin---hauskrankenpflege-regenbogen,berlin,pflegedienst berlin - hauskrankenpflege regenbogen,berlin,1-10,
+germany,,OaKoPStBx3hJxe5PGy3qEgVrYam5,medical practice,linkedin.com/company/ergotherapie-in-staaken,berlin,ergotherapie in staaken,berlin,1-10,ergotherapie-staaken.de
+germany,1986,u9J8Er1Kcl19vubBZIE9CQR2zygt,medical practice,linkedin.com/company/zahnarztpraxis-dr-med-dent-beatrix-lenz,munich,zahnarztpraxis dr. med. dent. beatrix lenz,bavaria,1-10,zahnarztpraxis-muc.de
+germany,,IKNdkedSl7CbxCmzVStIewEscBx3,medical practice,linkedin.com/company/markus-zapf,altlußheim,markus zapf,baden-württemberg,1-10,praxis-dr-zapf.de
+germany,2007,lYCSj4AsffYN2uIB4NY7Pwh1PbH8,medical practice,linkedin.com/company/ergotherapie-christian-doss-berlin-steglitz,berlin,ergotherapie christian doss,berlin,1-10,ergotherapie-doss-berlin.de
+germany,,o21bqQWLYHVNu5ucWfzMbgOXk2bt,medical practice,linkedin.com/company/externbrink,unna,externbrink,north rhine-westphalia,1-10,ellen-externbrink.com
+germany,,tUo8CmQfIO9FIZfTxrHKzwaBDxot,medical practice,linkedin.com/company/pädagogisch-therapeutische-einrichtung-bremerhaven,cuxhaven,pädagogisch-therapeutische-einrichtung bremerhaven,lower saxony,1-10,pte-cuxhaven.de
+germany,,48ZwM4cXhy5NcXURiaX7TQOuYonL,medical practice,linkedin.com/company/ihre-radiologen-im-jüdischen-krankenhaus-berlin,berlin,ihre radiologen im jüdischen krankenhaus berlin,berlin,1-10,
+germany,1995,14Y2pXGSwbdssL1JkjTHuQ7Inygt,medical practice,linkedin.com/company/praxis-dres.-sandig,memmingen,praxis dres. sandig,bavaria,11-50,dres-sandig.de
+germany,,BFvIi1FpHZASdLTsPIqEpwDz1CG1,medical practice,linkedin.com/company/gehwohl-fußpflege,munich,gehwohl fußpflege,bavaria,1-10,
+germany,,DxHsr1CPbyNetNfwtQ5dAQFS5dSU,medical practice,linkedin.com/company/orthopaedicum-kiel,kiel,orthopaedicum kiel - praxis für orthopädie und unfallchirurgie,schleswig-holstein,11-50,orthopaedicum.info
+germany,,5DTd9gBL6WQtcf3yRqxLfwjuYDn4,medical practice,linkedin.com/company/dmt.-physiotherapie-bad-neuenahr,bad neuenahr-ahrweiler,dmt. physiotherapie bad neuenahr,rhineland-palatinate,1-10,physiotherapie-badneuenahr.de
+germany,,3roSBDxC03IpkY3WXS8TmgPGpME8,medical practice,linkedin.com/company/zahnarztpraxis-in-der,pfaffenhofen an der roth,zahnarztpraxis in der,bavaria,11-50,zahnarztpraxis-laguna.de
+germany,,oCkAFWaqdKCUMDuTWp5ozgTa9DTp,medical practice,linkedin.com/company/leben-wohnen-ggmbh---wohnheim-für-menschen-mit-behinderung,lörrach,leben + wohnen ggmbh - wohnheim für menschen mit behinderung,baden-württemberg,1-10,
+germany,,ATyxBuYTFJWjr5D6PV366gI0aDIx,medical practice,linkedin.com/company/gemeinschaftspraxis-dres.-tillmann-schmidt-und-johannes-berschauer,reutlingen,gemeinschaftspraxis dres. tillmann schmidt und johannes berschauer,baden-württemberg,1-10,schmidt-berschauer.de
+germany,,p9uirIBh2ZN6TXOLulQMiAWIBKo7,medical practice,linkedin.com/company/ameos-pflege,meßstetten,ameos pflege,baden-württemberg,1-10,
+germany,,8vCFwVps5L7kUASkRihcrAzOBZCD,medical practice,linkedin.com/company/zahnarztpraxis-dr.-lonie,barßel,zahnarztpraxis dr. lonie,lower saxony,11-50,zahnarztpraxis-barssel.de
+germany,2018,1yYdrBCBwlJqzcIaOkv0xAeoaFO5,medical practice,linkedin.com/company/duceus-intensivpflege,dreieich,duceus intensivpflege,hesse,201-500,duceus-intensivpflege.de
+germany,1920,HefPyH4BMXRaezUoXjKbSQ9vfBSU,medical practice,linkedin.com/company/augenoptik-schmuck-fetzer,moosburg,augenoptik schmuck fetzer,bavaria,1-10,fetzer-moosburg.de
+germany,,Tio3Mmt8YfpHFiBZC0Rj3AzuwHGj,medical practice,linkedin.com/company/kinderchirurgische-praxisklinik,hamburg,kinderchirurgische praxisklinik,hamburg,1-10,kinderchirurgie-hh.de
+germany,,JcpZGGbTG3SReGlLqxkoygnyEecK,medical practice,linkedin.com/company/klinikum-leer-gemeinnützige,leer,klinikum leer gemeinnützige,lower saxony,1-10,kkhleer.de
+germany,,CtdXzFyuQ0LKBAuUHSF6qAhbPFX1,medical practice,linkedin.com/company/dr.med.-ralph-meyers-facharzt-für-kinder--und-jugendpsychiatrie,dorsten,dr.med. ralph meyers facharzt für kinder- und jugendpsychiatrie,north rhine-westphalia,1-10,sozialpsychiatrisches-centrum-dr-meyers.de
+germany,,EUuFNjoTCsvI7MEvgSE8mATvNPFT,medical practice,linkedin.com/company/physio-relax,bad lauterberg,physio-relax,lower saxony,1-10,physio-relax.de
+germany,,BAFl3ah4BP1Yz2jBasUCgAZxIURC,medical practice,linkedin.com/company/naturheilpraxis-herba-vitae,gröden,naturheilpraxis herba vitae,brandenburg,1-10,herba-vitae.de
+germany,,sD5qokI5729H89uLCWdtnQ8uIycw,medical practice,linkedin.com/company/institut-für-gesundheitsförderung-ifg,mettmann,institut für gesundheitsförderung ifg,north rhine-westphalia,1-10,ifg-me.de
+germany,,pgrW3VuMRCjDlANUqy0v2AdcxOtD,medical practice,linkedin.com/company/praxis-dr.-klein,schenklengsfeld,praxis dr. klein,hesse,1-10,praxis-klein.de
+germany,,q7sVIz5vX4BPeEFl71MOUQSqOLyU,medical practice,linkedin.com/company/klinikum-offenburg,offenburg,klinikum offenburg,baden-württemberg,11-50,
+germany,,iC51Y3m8Dwbi4McCPnu97Qt5ziv5,medical practice,linkedin.com/company/reha-praxis,bonn,reha praxis,north rhine-westphalia,1-10,rehapraxis-jerokin.de
+germany,,nCS29KNyqMwZ1EqLtuqnfAH4WsLT,medical practice,linkedin.com/company/logopädische-praxis-sprechzeit-münchen,munich,logopädische praxis sprechzeit-münchen,bavaria,1-10,sprechzeit-muenchen.de
+germany,,ATvSkSyZDBwBMm6EWksglQQLtIoV,medical practice,linkedin.com/company/zahnhaus-papenburg,papenburg,zahnhaus papenburg,lower saxony,1-10,zahnhaus-papenburg.de
+germany,,KGCDpUjHoukWHO0W6zviKQhAs6ol,medical practice,linkedin.com/company/andreas-erben,berlin,andreas erben,berlin,1-10,
+germany,,zxlGyMtTEugtCLBgPwoyqgKYLrZ2,medical practice,linkedin.com/company/familienpraxis-weissensee,berlin,familienpraxis weissensee,berlin,1-10,familienpraxis-weissensee.de
+germany,,S773twqu213WJZWqBrOO5Akgktgp,medical practice,linkedin.com/company/eller-&-kellermann---praxis-für-orthopädie-und-unfallchirurgie,berlin,eller & kellermann - praxis für orthopädie und unfallchirurgie,berlin,11-50,ortho-berlin-mitte.de
+germany,,iYCjnSVMYlJBFNtPnoJPvAKULImm,medical practice,linkedin.com/company/kreiskrankenhaus-ermstalklinik-bad-urach,bad urach,kreiskrankenhaus ermstalklinik bad urach,baden-württemberg,1-10,
+germany,,UZG6w5e02QfS4RD5Buctgg4UidXw,medical practice,linkedin.com/company/nephrologie-und-urologie-harburg,hamburg,nephrologie und urologie harburg,hamburg,1-10,hamburg-harburg-urologie.de
+germany,,Bkq0l1RL6xdOrvrPxeDZfQc5xKet,medical practice,linkedin.com/company/wiesbadener-akademie-für-psychotherapie-gmbh,wiesbaden,wiesbadener akademie für psychotherapie gmbh,hesse,11-50,wiap.de
+germany,,gBolkyEFSYQb3vfW8ca2NgS6WrGW,medical practice,linkedin.com/company/praxisklinik-denecke-zahnmedizin,hilden,praxisklinik denecke zahnmedizin,north rhine-westphalia,51-200,denecke-zahnmedizin.de
+germany,,75VmixztgqFkp48DPzWgXgcxE8Pi,medical practice,linkedin.com/company/glam-smile-design-by-arne-von-sternheim,villingen-schwenningen,glam smile design by arne von sternheim,baden-württemberg,1-10,
+germany,,xjDS2lAIqWQQoCpaPOcG3gzFAaRk,medical practice,linkedin.com/company/physio-zentrum-fockbek-swanhild-priestley,fockbek,physio zentrum fockbek swanhild priestley,schleswig-holstein,1-10,
+germany,,oltolMoDJXf4hyjBv3iCpQ5aXYPF,medical practice,linkedin.com/company/dr.med.-marieluise-schmittdiel-praktische-ärztin,münchen,dr.med. marieluise schmittdiel praktische ärztin,bavaria,1-10,praxis-johanneskirchen.de
+germany,,zH19BITUdBeeQcBBeWsNtA0LaHoX,medical practice,linkedin.com/company/kinderklinik-prinzessin-margaret,darmstadt,kinderklinik prinzessin margaret,hesse,1-10,
+germany,,NUgALBs58sPTbbrz4SxxmguboCao,medical practice,linkedin.com/company/dr.med.dent.-robert-hansen-med.-versorgungszentrum-zahnarzt,garmisch-partenkirchen,dr.med.dent. robert hansen med. versorgungszentrum zahnarzt,bavaria,1-10,garmischpartenkirchen-zahnarzt.de
+germany,,gY6RN4qP2jQiMJz2mZ9rNA7aZUQn,medical practice,linkedin.com/company/kurzentrum-lüneburg-kurmittelgesellschaft-mbh,lüneburg,kurzentrum lüneburg kurmittelgesellschaft mbh,lower saxony,1-10,kurzentrum.de
+germany,,o8BfwkX2r50qFRE86fEPFAAYitdu,medical practice,linkedin.com/company/privatpraxis-heiko-lehmann-arzt-für-osteopathie,kiel,privatpraxis heiko lehmann arzt für osteopathie,schleswig-holstein,11-50,lehmann-praxis.de
+germany,,XJcZSrWn1PhJj9wnTAPKBAwlvmDP,medical practice,linkedin.com/company/ameos-krankenhausgesellschaft-bremen-mbh,bremen,ameos krankenhausgesellschaft bremen mbh,bremen,1-10,
+germany,,Tb0o2CoAeAmwG3TBUwAhkw0J7MWX,medical practice,linkedin.com/company/charité-universitätsmedizin-berlin---campus-virchow-klinikum,berlin,charité universitätsmedizin berlin - campus virchow klinikum,berlin,1-10,
+germany,,um6CcRmxOBu8kkB8wXzgagkDwdkt,medical practice,linkedin.com/company/schmerz-und-palliativzentrum,hamburg,schmerz-und palliativzentrum,hamburg,1-10,schmerzdoktor.de
+germany,,DtbJvql5SeOvUocRHl1h5wj8kvpJ,medical practice,linkedin.com/company/orthoteam-köln-hohenlind,cologne,orthoteam köln hohenlind,north rhine-westphalia,1-10,caritas-akademie-koeln.de
+germany,,HRmpG2lfCvDCXWDxDIe25AznBySd,medical practice,linkedin.com/company/seniorenresidenz-am-stift,hessisch oldendorf,seniorenresidenz am stift,lower saxony,1-10,
+germany,,JELdxAV6TFNhdxSY0w1GvQhi7bm6,medical practice,linkedin.com/company/klinik-und-poliklinik-für-orthopädie-und-unfallchirurgie,bonn,klinik und poliklinik für orthopädie und unfallchirurgie,north rhine-westphalia,1-10,ortho-unfall-bonn.de
+germany,,h49XFNl5L1zsnI8nkPZnswhC3hX7,medical practice,linkedin.com/company/zahnarztpraxis-kangal,ulm,zahnarztpraxis kangal,baden-württemberg,1-10,zp-kangal.de
+germany,,uijcl0hl8kvU0mtkppNiOwE57Y5G,medical practice,linkedin.com/company/zahnarztpraxis-dr.-ralf,stuttgart,zahnarztpraxis dr. ralf,baden-württemberg,11-50,zahnarztpraxis-dr-müller.de
+germany,,hixiYsuLhPsx6teBCHrq6A7sMJOl,medical practice,linkedin.com/company/gemeinschaftspraxis-dres.-manfred-schnitzler-und-sabine-schnitzler,essen,gemeinschaftspraxis dres. manfred schnitzler und sabine schnitzler,north rhine-westphalia,1-10,dres-schnitzler.de
+germany,,IwEjkr5GdEHaKtjELDxeRgMloeeo,medical practice,linkedin.com/company/manfred-thiel,gerolstein,manfred thiel,rhineland-palatinate,1-10,orthopaedie-gerolstein.de
+germany,,vJHPGY5vnUg9T7xBFawkgAf6yv3s,medical practice,linkedin.com/company/praxisklinik-am-germania-campus-dr-med-anita-ruetter,münster,praxisklinik am germania campus - dr. med. anita rütter,north rhine-westphalia,1-10,dr-ruetter.de
+germany,,HpcFSNgWwpygVlnjyffs8Q98vHeb,medical practice,linkedin.com/company/physiotherapie-orthovital.de,castrop-rauxel,physiotherapie-orthovital.de,north rhine-westphalia,1-10,physiotherapie-orthovital.de
+germany,,7ZA3vsXlpk7vsm6M3GPIag4MxjqT,medical practice,linkedin.com/company/physio-&-reha-team-menden,menden,physio & reha team menden,north rhine-westphalia,11-50,prt-menden.de
+germany,,XuGulCM4RI6p2ddwLqQO0gC5iJv9,medical practice,linkedin.com/company/narkose-nord,uelzen,narkose nord,lower saxony,1-10,narkose-nord.de
+germany,,LoUtB8MzdxtPElYTGUIE4wPq3crE,medical practice,linkedin.com/company/physioteam-wedel,pulheim,physioteam wedel,north rhine-westphalia,1-10,physioteam.de
+germany,1985,y6ti9Wi4L9hRCjLamjRgUQRaCzXC,medical practice,linkedin.com/company/shiatsu-jelden,bonn,shiatsu- & physio jelden,north rhine-westphalia,1-10,
+germany,,0535IWu3EHhc0ENPmpWpwwQkGHr2,medical practice,linkedin.com/company/dr.med.-gregor-döppenschmitt-facharzt-für-allgem.-chirurgie,dortmund,dr.med. gregor döppenschmitt facharzt für allgem. chirurgie,north rhine-westphalia,1-10,dr-doeppenschmitt.de
+germany,,0irVKsxcl4uCed61dGCtPQ9L9K6q,medical practice,linkedin.com/company/krankenhaus-mörsenbroich-rath,düsseldorf,krankenhaus mörsenbroich rath,north rhine-westphalia,1-10,kmr-gruppe.de
+germany,,lV8rDMZb0hyuEzltv1DZawqdVEzo,medical practice,linkedin.com/company/praxis-für-physiotherapie-marlen-grabbe,minden,praxis für physiotherapie marlen grabbe,north rhine-westphalia,1-10,physiotherapie-grabbe.de
+germany,,rlFGIvVuCRkO63cFntI7TQ3xk0cG,medical practice,linkedin.com/company/altenheim-haus-am-frankenberg,hamburg,altenheim haus am frankenberg,hamburg,1-10,
+germany,,vMHE0jxhMyXcuTfyPStiMgvCVpk7,medical practice,linkedin.com/company/ockenfels-hans-michael-prof.-u.-sauter-christoph-dres.-med.-hautärzte,hanau,ockenfels hans-michael prof. u. sauter christoph dres. med. hautärzte,hesse,1-10,hautarzt-hanau.de
+germany,,RdPD2qARxiaRlmFb2mRbHAfWKhON,medical practice,linkedin.com/company/deutsche-heilpraktikerschule-heilpraktikerschule-münster,münster,deutsche heilpraktikerschule heilpraktikerschule münster,north rhine-westphalia,1-10,
+germany,,DuniN2AjRlFzWNsVSKpx0weLoqWM,medical practice,linkedin.com/company/praxis-dr.-banach-frankfurt,frankfurt,praxis dr. banach frankfurt,hesse,1-10,kieferorthopaeden-in-frankfurt.de
+germany,,wHFVXBHUrNRXjJrfZRsZ8gy95no4,medical practice,linkedin.com/company/die-kinderzahnärzte,regensburg,die kinderzahnärzte,bavaria,11-50,diekinderzahnaerzte-west.de
+germany,,v4bIuFnTUNbSqbPtCmv03QvTnn3V,medical practice,linkedin.com/company/praxis-doctor-medic-laurentiu-niculaescu,bedburg,praxis doctor-medic laurentiu niculaescu,north rhine-westphalia,1-10,orthopraxisnic.de
+germany,,1BHICgvWLtQID25XiBc9yQ8YmGVZ,medical practice,linkedin.com/company/tagesklinik-mkg-oralchirurgie-und-implantologie,schorndorf,"tagesklinik mkg, oralchirurgie und implantologie",baden-württemberg,1-10,dr-beniashvili.de
+germany,,KY40J4KClD5H89ZvKUABgg3BGx07,medical practice,linkedin.com/company/eine-neue-perspektive,tutzing,eine neue perspektive,bavaria,11-50,eine-neue-perspektive.com
+germany,,2St7RZDRFDHkNiDrIR6bJgYwU9tK,medical practice,linkedin.com/company/praxisgemeinschaft-agneta-rischuk-und-daniela-leiser,tornesch,praxisgemeinschaft agneta rischuk und daniela leiser,schleswig-holstein,1-10,arztpraxis-tornesch.de
+germany,,hd9vCIsqEQOAgZFa1u0juwTEOG56,medical practice,linkedin.com/company/klinikum-bremen-mitte-ggmbh,bremen,klinikum bremen-mitte ggmbh,bremen,1-10,
+germany,,1PL9YDjCkBPKuqLcBbTouAjfMUx8,medical practice,linkedin.com/company/hornschuh-dr.med.-barbara-fachärztin-für-dermatologie-u.-venerologie-allergologie,celle,"hornschuh dr.med. barbara fachärztin für dermatologie u. venerologie, allergologie",lower saxony,1-10,howaderm.de
+germany,,fMTcJ58z3Uww2BrmpBVhng1qNYbO,medical practice,linkedin.com/company/zahnarztpraxis-tarkel,bad ems,zahnarztpraxis tarkel,rhineland-palatinate,1-10,zahnarzt-tarkel.de
+germany,,s1VRSZPSBRmEXCus5CyPWwNhY1g7,medical practice,linkedin.com/company/martin-luther-krankenhaus-chirurgische-abteilung,zeven,martin-luther-krankenhaus chirurgische abteilung,lower saxony,1-10,
+germany,,bZknE0NDCI7sTFBcwALtugTD9xmz,medical practice,linkedin.com/company/hilgert-&-partner,löwenberger land,hilgert & partner,brandenburg,1-10,im-trend.org
+germany,,UPVTjpJ4MB5g53LkPny38g67PHrv,medical practice,linkedin.com/company/frauenarzt-zentrum-giessen,gießen,frauenarzt zentrum giessen,hesse,1-10,
+germany,,YQaNpB0Y4CfO1BYQcQXbRge6TIv0,medical practice,linkedin.com/company/andrea-reiner,schonach im schwarzwald,andrea reiner,baden-württemberg,1-10,andrea-reiner.de
+germany,,chfBFzjJYMtrBmTu8kbWAw1lzS8y,medical practice,linkedin.com/company/dr.med.-christian-horn-facharzt-für-kinder--und-jugendmedizin,stockelsdorf,dr.med. christian horn facharzt für kinder- und jugendmedizin,schleswig-holstein,1-10,kinderarzt-horn.de
+germany,,xyGpRh9ub0B2Zaxgc7QWGAm9YNRO,medical practice,linkedin.com/company/praxisklinik-dr.-schuppert,bonn,praxisklinik dr. schuppert,north rhine-westphalia,1-10,praxisklinikbonn.de
+germany,2018,w8T9rzxT0CHxSDnLUcPNBAxSL9IK,medical practice,linkedin.com/company/medwert,hamburg,medwert,hamburg,1-10,medwert.de
+germany,,BDlbr1tuSGtQJL9uxPzCUgHEm8hc,medical practice,linkedin.com/company/radiologie-am-springpfuhl,berlin,radiologie am springpfuhl,berlin,1-10,radiologie-am-springpfuhl.de
+germany,,m1fomjjR8IOsO1SUjCwkWgBa4lqL,medical practice,linkedin.com/company/physiotherapie-hennecke,cologne,physiotherapie hennecke,north rhine-westphalia,1-10,physiotherapie-hennecke.de
+germany,,PXkDHMT14nXixch8Z30MJgbyr7Re,medical practice,linkedin.com/company/caritas--altenzentrum-santa-teresa,frankfurt,caritas- altenzentrum santa teresa,hesse,1-10,
+germany,,VsTrtkgXBRm0ZEuutMbyNAkN3u0G,medical practice,linkedin.com/company/betriebsärztlicher-dienst-norddeutschland-gmbh,lübeck,betriebsärztlicher dienst norddeutschland gmbh,schleswig-holstein,11-50,bd-nord.de
+germany,,hzxVnpC59SPjEF50fnyiJgxF81sm,medical practice,linkedin.com/company/gebremariam,lauf,gebremariam,bavaria,1-10,dr-belayneh-physiotherapie.de
+germany,,Bt5uMC1PeBk181MDpbZFcAWbY3Yx,medical practice,linkedin.com/company/chirurgische-praxisklinik,rödental,chirurgische praxisklinik,bavaria,1-10,chirurgische-praxisklinik-roedental.de
+germany,,mXsdEydONrRUBPGCrPPOuwVdiJve,medical practice,linkedin.com/company/urologie-zentrum,essen,urologie zentrum,north rhine-westphalia,1-10,urologie-zentrum-essen.de
+germany,,MEQL8kKQ1B3fkEDUdv0VpQSgqPcu,medical practice,linkedin.com/company/arbeiterwohlfahrt-bezirk-westliches-westfalen,iserlohn,arbeiterwohlfahrt bezirk westliches westfalen,north rhine-westphalia,1-10,
+germany,,NVkcS8n4m36kmnHawGaCRASZurEA,medical practice,linkedin.com/company/erfolg-ist-messbar-—-premium-personal-training,emmelshausen,erfolg ist messbar — premium personal training,rhineland-palatinate,1-10,erfolgistmessbar.com
+germany,,EvmnzkOVGioZMdXY9M1jlwG1Zylq,medical practice,linkedin.com/company/drk-krankenhaus-mecklenburg-strelitz,neustrelitz,drk-krankenhaus mecklenburg-strelitz,mecklenburg-vorpommern,1-10,drkmst.de
+germany,,8Sy6L95FSBDCyvFKLTSI1AWrVkY9,medical practice,linkedin.com/company/evangel.-diakonissenanstalt-rudolf-walter-haus,karlsruhe,evangel. diakonissenanstalt rudolf-walter-haus,baden-württemberg,1-10,
+germany,2017,jOobAJ3r7mtJKLeprSgYHgYda4JW,medical practice,linkedin.com/company/primedus-gmbh,jena,primedus gmbh,thuringia,51-200,primedus.de
+germany,,50XIrrwGTQ3qQXGWpPcUXAR7k25o,medical practice,linkedin.com/company/praxis-dres.-med.-borcherding,hannover,praxis dres. med. borcherding,lower saxony,1-10,praxis-borcherding.de
+germany,,yCNODhVTkzXyFe9WFKBHagZQxYoR,medical practice,linkedin.com/company/praxis-für-klass.-homöopathie-ernährungs--und,mainburg,"praxis für klass. homöopathie, ernährungs- und",bavaria,1-10,agens-vitalis.de
+germany,,TscLU6E6MyvttsF2VS2lygQDi1Pf,medical practice,linkedin.com/company/hegau-bodensee--klinikum-stühlingen,stühlingen,hegau-bodensee- klinikum stühlingen,baden-württemberg,1-10,
+germany,,zXrhq0AxHnACzctwLXKR7gxuk1Iw,medical practice,linkedin.com/company/dr.-jürgen-kollmann-dr.-claus-gasteyer-ines-görlich,frankfurt,"dr. jürgen kollmann, dr. claus gasteyer, ines görlich",hesse,1-10,
+germany,2023,vSE9r3nRgEwvhc6aIJ2rVQECbgC4,medical practice,linkedin.com/company/lighter-me-gmbh,munich,lighter.me gmbh,bavaria,11-50,lighter.me
+germany,,7ICGMEgIytfFbhbQYWCBngXQ0X3m,medical practice,linkedin.com/company/grund--und-mittelschule-strullendorf,strullendorf,grund- und mittelschule strullendorf,bavaria,1-10,grund-und-mittelschule-strullendorf.de
+germany,,c0fcIOMPNI4pTGJGIM53bwZCEgzS,medical practice,linkedin.com/company/fach-und-hausarztzentrum-dr-med-thomas-trepels,neu isenburg,fach- und hausarztzentrum dr. med. thomas trepels & kollegen,hesse,11-50,praxis-trepels.de
+germany,,nC50jEELNKvgdM7PWSCP3w0SMyhB,medical practice,linkedin.com/company/kubenz-kira-dr.med.-prakt.-ärztin-für-ernährungsmedizin,hamburg,kubenz kira dr.med. prakt. ärztin für ernährungsmedizin,hamburg,1-10,genanalysen-hamburg.de
+germany,,n7uqmaRdjg8CNfKXR04L1wUUbkM4,medical practice,linkedin.com/company/medizahn-gmbh,bielefeld,medizahn gmbh,north rhine-westphalia,1-10,medizahn.com
+germany,,1CexZ9VESzWF4yQBsXxQVwqNTE6u,medical practice,linkedin.com/company/landambulatorium-börde,,landambulatorium börde,,1-10,landambu.de
+germany,,I2H27Bw0ZxgRTXcPCQ5WQwQnlt3p,medical practice,linkedin.com/company/seniorenzentrum-gehren,gehren,seniorenzentrum gehren,thuringia,1-10,
+germany,,cqdkOgXFvP7cuIB1wN3NfwxR5knZ,medical practice,linkedin.com/company/mammadiagnostik-stephansplatz,hamburg,mammadiagnostik stephansplatz,hamburg,1-10,mammadiagnostik-stephansplatz.de
+germany,,C4EeVGyTcWI52trmxdqX4w0lWsCn,medical practice,linkedin.com/company/escodent-gmbh,leopoldshöhe,escodent gmbh,north rhine-westphalia,11-50,escodent.de
+germany,2015,zTfU3A5zcRnDdsGrDqhRJgDryncK,medical practice,linkedin.com/company/pph-physio-pool-hoheluft-gmbh,hamburg,pph physio pool hoheluft gmbh,hamburg,1-10,pph-physiopool.de
+germany,,yBh7ZAzrOjwvt812PSS5PARenyOb,medical practice,linkedin.com/company/drk-altenwohnheim,niedenstein,drk altenwohnheim,hesse,1-10,
+germany,,g3IEV1FdUwjNNYKsCjunsAOscCPo,medical practice,linkedin.com/company/nlteach-center-gbr,berlin,nlteach-center gbr,berlin,1-10,nlteach.de
+germany,,Xw2VcS7XGPE4AoX7g8GCowUD6AW9,medical practice,linkedin.com/company/zahnarzt-am-ostring-cem-isik,bottrop,zahnarzt am ostring cem isik,north rhine-westphalia,1-10,zahnarzt-am-ostring.de
+germany,,pYSQYXubit5qo4te6BTzXgtsPfE8,medical practice,linkedin.com/company/mark-dukpa-facharzt-für-orthopädie,berlin,mark dukpa facharzt für orthopädie,berlin,1-10,ortho-dukpa.de
+germany,2016,P0lnKqTUKmzAwFjN8HD9MQslZKki,medical practice,linkedin.com/company/physiotherapie-glücksgriff,wilhelmsfeld,physiotherapie glücksgriff,baden-württemberg,1-10,physio-gluecksgriff.de
+germany,,m7ji00PaimwEbcq6uC4NfAvMn4Yu,medical practice,linkedin.com/company/fabian-strumpf,reutlingen,fabian strumpf,baden-württemberg,1-10,heilpraktikerfabianstrumpf.de
+germany,,E4Bh2M1dVtiu0qA8wlTmDACL1HZl,medical practice,linkedin.com/company/wolf-stefanie,freisbach,wolf stefanie,rhineland-palatinate,1-10,steffis-physiothek.de
+germany,,ZBfkCRiAZu075S7BIk2QTgLQ78gr,medical practice,linkedin.com/company/dr-med-julia-berkei,frankfurt,dr. med. julia berkei,hesse,1-10,berkei.com
+germany,,l15WCGDQWI7hbZqBNDFpegEK9BW3,medical practice,linkedin.com/company/drk-service--und-pflegeteam-schaumburg-ggmbh,stadthagen,drk service- und pflegeteam schaumburg ggmbh,lower saxony,1-10,
+germany,,Quls1mv7PxLy9dJk4J1D6QF96wNK,medical practice,linkedin.com/company/evangelangelisches-johanneswerk-e.v,bünde,evangelangelisches johanneswerk e.v,north rhine-westphalia,1-10,
+germany,2008,aCwM0S4gESc9kgVaTIaVbgtzt9eg,medical practice,linkedin.com/company/samedi-gmbh,berlin,samedi gmbh,berlin,51-200,samedi.de
+germany,,qRSBZzivckaPxDSv1eVkEQaxqpl4,medical practice,linkedin.com/company/ganzheitliche-hypnosepraxis,schopfheim,ganzheitliche hypnosepraxis,baden-württemberg,11-50,ganzheitliche-hypnosepraxis.de
+germany,,RsctlIQNBPYk1Wi9car3xA79kyOB,medical practice,linkedin.com/company/tierakupunktur-wehrheim,limburg,tierakupunktur wehrheim,hesse,1-10,tierakupunktur-wehrheim.de
+germany,,4azqzJ1SMGwb9x6J4FhKXQPZX3xC,medical practice,linkedin.com/company/zahnärzte-taunusstein,taunusstein,zahnärzte taunusstein,hesse,1-10,zahnaerzte-taunusstein.de
+germany,,u4GEE3jesZNlPP9nCtCZoQi1eKzv,medical practice,linkedin.com/company/kursana-domizil-lingen,lingen,kursana domizil lingen,lower saxony,1-10,
+germany,,sWpQqgiSfsxXLFHPCCUuoQjuF6jE,medical practice,linkedin.com/company/dr.-n.-t.-vo-karuna-zahnarztpraxis,emden,dr. n.-t. vo karuna zahnarztpraxis,lower saxony,1-10,karuna-zahnarztpraxis.de
+germany,,VF9FNQ3Mm2JL1CQ7fSDB7QgXu60a,medical practice,linkedin.com/company/tagesklinik-alteburger-straße-ggmbh,cologne,tagesklinik alteburger straße ggmbh,north rhine-westphalia,1-10,
+germany,,3iWj3bjCCpyJnjFtR0gAWAqqx00Y,medical practice,linkedin.com/company/hörning-c.-dr.,clausthal-zellerfeld,hörning c. dr.,lower saxony,1-10,zahnarztpraxis-hoerning.de
+germany,,CIghPyvoC2V1avVpjODChgOBqCwB,medical practice,linkedin.com/company/kreisklinik-hofgeismar,hofgeismar,kreisklinik hofgeismar,hesse,1-10,kreisklinik-hofgeismar.de
+germany,,CVk9rbq1824fk6xbyCfSjQOTWrIX,medical practice,linkedin.com/company/mvz-am-schlossplatz-gmbh-augenheilkunde,rastatt,mvz am schlossplatz gmbh augenheilkunde,baden-württemberg,1-10,augenaerztin-karlsruhe.de
+germany,,lWBnH8UbzEGISCnb2ZHVZgKuqO5X,medical practice,linkedin.com/company/physis-praxis-für-physiotherapie-philipp-raffalt,ingolstadt,physis-praxis für physiotherapie philipp raffalt,bavaria,1-10,physis-ingolstadt.de
+germany,,0QyzV77IDJfpMVC3AJHTygPbKVjd,medical practice,linkedin.com/company/via-dent,ötisheim,via-dent,baden-württemberg,11-50,
+germany,,XuUX09Q0b4fLBG1kItYDFAKEHdEj,medical practice,linkedin.com/company/coach4food,duisburg,coach4food,north rhine-westphalia,1-10,coach4food.de
+germany,,G6F8JcTMOtcknny321N9OA12Q9VB,medical practice,linkedin.com/company/universitätsklinikum-marburg,marburg,universitätsklinikum marburg,hesse,1-10,
+germany,,rD8yXXcVNockEVhDevQe4QmffQvv,medical practice,linkedin.com/company/gemeinschaftspraxis-ailingen,friedrichshafen,gemeinschaftspraxis ailingen,baden-württemberg,11-50,gemeinschaftspraxis-ailingen.de
+germany,2022,YrdJvwGClK0Kew1laELCAQYoiinv,medical practice,linkedin.com/company/mvz-zahnmedizin-rindern,kleve,mvz zahnmedizin rindern,north rhine-westphalia,11-50,zahnmedizin-rindern.de
+germany,,2Xb34sGjRNliU2CtaooHNAjkPNVW,medical practice,linkedin.com/company/dr.med.-farahnaz-amiri-kretschmer-fachärztin-für-frauenheilkunde-und-geburtshilfe,hemmingen,dr.med. farahnaz amiri-kretschmer fachärztin für frauenheilkunde und geburtshilfe,lower saxony,1-10,aerztenetz-frauengesundheit.de
+germany,,CC3K0HBlHXY15ighrUddBQdAGnSw,medical practice,linkedin.com/company/zahnärzte-an-der-aller---aileen-friederichs-&-dr.hannes-cohnert,gifhorn,zahnärzte an der aller - aileen friederichs & dr.hannes cohnert,lower saxony,1-10,praxis-gifhorn.de
+germany,,GcCXCQeQ2KCb1f0CS2afoglCeXbx,medical practice,linkedin.com/company/dr.-bora-akyürek,ulm,dr. bora akyürek,baden-württemberg,11-50,doktorbora.de
+germany,,wfsh8sz2WvBfXLMrwMzZuQKt2khA,medical practice,linkedin.com/company/gries-&-tussing,gerbach,gries & tussing,rhineland-palatinate,1-10,griesundtussing.de
+germany,,1HDCSA57qcnjShC9xxrCvQr2pGOZ,medical practice,linkedin.com/company/shg-kliniken-von-fellenberg-stift,merzig,shg kliniken von-fellenberg-stift,saarland,1-10,
+germany,,enfi8v14pKX73O0ZwchVpwkjIMOl,medical practice,linkedin.com/company/naturheilpraxis-claudia,hamburg,naturheilpraxis claudia,hamburg,1-10,naturheilpraxis-david.de
+germany,2015,PyFYoZdwXuEELrWX3kUFgQdwgeEY,medical practice,linkedin.com/company/neuroloop-gmbh,freiburg im breisgau,neuroloop gmbh,baden-württemberg,11-50,neuroloop.de
+germany,1972,ARl5jjaofcA4IsyGzxznZgXtbnq2,medical practice,linkedin.com/company/tracoe-medical-gmbh,nieder-olm,tracoe medical gmbh,rhineland-palatinate,201-500,tracoe.com
+germany,1997,0oGTXwYHkxTuzzqVPhF9SwY7DPow,medical practice,linkedin.com/company/dr-frentz-&-kollegen,stuttgart,"dr. frentz & kollegen, dentist in stuttgart",baden-württemberg,11-50,frentz.de
+germany,,iJBFIKx5yAbZhLbZYaj5cQ6oXlMi,medical practice,linkedin.com/company/dr.-med.-peter-bittner-dersch,gießen,dr. med. peter bittner-dersch,hesse,1-10,
+germany,,HVCWRch3CFhBKJFbpZ5hCwb9W04U,medical practice,linkedin.com/company/praxis-andrea-ludwig,erlangen,praxis andrea ludwig,bavaria,1-10,xn--homopathie-ludwig-1zb.de
+germany,,VoHKBCRpXZxcjDWrOQ4cTwZJdDyc,medical practice,linkedin.com/company/dr.-med.-dent.-andreas-amann,nuremberg,dr. med. dent. andreas amann,bavaria,1-10,zahnarzt-dr-amann.de
+germany,,h2YlJGurNtM64jF2nKBQXgYwYjQZ,medical practice,linkedin.com/company/therapie-training,lotte,therapie + training,north rhine-westphalia,1-10,therapieplustraining.de
+germany,,RcWcAcrdZZAkl1wXRwVIeAZPPXyS,medical practice,linkedin.com/company/seniorenpflege-haßloch-gmbh,bad honnef,seniorenpflege haßloch gmbh,north rhine-westphalia,1-10,
+germany,,fcBo360h7nWHOIw29P7dqgcc4X9v,medical practice,linkedin.com/company/radiologie-am-basler-tor,freiburg im breisgau,radiologie am basler tor,baden-württemberg,1-10,radiologie-am-basler-tor.de
+germany,,imI9GYnUhuewO90YCD7BaQEyPzqB,medical practice,linkedin.com/company/altenzentrum-eggeblick,halle,altenzentrum eggeblick,north rhine-westphalia,1-10,
+germany,,kngpQ3yiEDR0uLpeC9zTDwxDxUUG,medical practice,linkedin.com/company/dr.med.-nathalie-mameghani-fachärztin-für-innere-medizin,wattenbek,dr.med. nathalie mameghani fachärztin für innere medizin,schleswig-holstein,1-10,hausarzt-wattenbek.de
+germany,,UHIEQOLZ5xnwT2bYNeCC4A4JGHf4,medical practice,linkedin.com/company/arkade-privatklinik,wernshausen,arkade privatklinik,thuringia,1-10,arkade-privatklinik.com
+germany,,I3lxde0x0CNMEVCmkWWGHADoSS9Y,medical practice,linkedin.com/company/gemeinschaftspraxis-dr.-rené-denis-und-dr.-andreas-meschenmoser,stuttgart,gemeinschaftspraxis dr. rené denis und dr. andreas meschenmoser,baden-württemberg,1-10,mkg-marienplatz.de
+germany,,B2yuGbfwb6GECmQaqdC62wujGDzH,medical practice,linkedin.com/company/geesthacht,geesthacht,geesthacht,schleswig-holstein,1-10,seniorenresidenz-geesthacht.de
+germany,,lGRaKnH4Ua5spEryy4GC8grnA9nT,medical practice,linkedin.com/company/gemeinschaftspraxis-kinderwunsch-hannover-dr.med.-nabil-sayme-und-prof.-dr.-dieter-maas,hannover,gemeinschaftspraxis kinderwunsch hannover dr.med. nabil sayme und prof. dr. dieter maas,lower saxony,1-10,mykinderwunsch.npage.de
+germany,,4DXEO3t3EWsBSz3a7R4o7gpBDU6y,medical practice,linkedin.com/company/praxis-für-plastische-und-ästhetische-chirurgie,esslingen,praxis für plastische und ästhetische chirurgie,baden-württemberg,1-10,pro4beauty.com
+germany,,w3zMHMHNvSFdaGDr982QZwjvdZ7l,medical practice,linkedin.com/company/tree-vitalis,durmersheim,tree vitalis,baden-württemberg,1-10,treevitalis.de
+germany,,6ozjBGWICeBfQNscv334vQprUTkr,medical practice,linkedin.com/company/alten--und-pflegeheim-deinerlinde-ggmbh,einbeck,alten- und pflegeheim deinerlinde ggmbh,lower saxony,1-10,altenheim-deinerlinde.de
+germany,1990,80gH96a6qClsB3CEo1dL4wuLkzmd,medical practice,linkedin.com/company/praxis-bianca-antelmann,kaarst,praxis bianca antelmann,north rhine-westphalia,1-10,physio-kaarst.info
+germany,,P7Tt9BgCBCR7ewH3FfPW9gKRXFPL,medical practice,linkedin.com/company/klaus-hösele,siegsdorf,klaus hösele,bavaria,1-10,hoesele.de
+germany,,gRRJcGCp8iWTnoLqdzHUNQNRgV5O,medical practice,linkedin.com/company/dr.-cheikh,berlin,dr. cheikh,berlin,1-10,cheikh-plastische-chirurgie.de
+germany,,oUFVKgI0VfaK95czU2R7tQozKFfw,medical practice,linkedin.com/company/ergotherapie-richter,laufenburg (baden),ergotherapie richter,baden-württemberg,1-10,ergotherapie-richter.com
+germany,,E1MShoQZx5LanKOzVO8vyQEZOLeM,medical practice,linkedin.com/company/orthopädie-emsland,lingen,orthopädie emsland,lower saxony,11-50,orthopaedie-emsland.de
+germany,,DKrnPWvtyoWgL1ENqWdMggnop0rw,medical practice,linkedin.com/company/dr.-schmitz-hüser-&-dr.-buchholz-baca,cologne,dr. schmitz-hüser & dr. buchholz-baca,north rhine-westphalia,1-10,zahnarzt-am-maarweg.de
+germany,,IMC4oBjCOUDiD2Gq5HSp9gqN5rym,medical practice,linkedin.com/company/caritas-seniorenheim,deining,caritas seniorenheim,bavaria,1-10,
+germany,,SWl1pnO7R3EAuLP6OW5kewrUlEzr,medical practice,linkedin.com/company/orthopädie-unfallchirurgie-und-sportmedizin,lohr am main,"orthopädie, unfallchirurgie und sportmedizin",bavaria,1-10,orthopadie-unfallchirurgie-und-sportmedizin.business.site
+germany,,hdSyQVZwmXI5E89hi2taVwv3ST4e,medical practice,linkedin.com/company/physiotherapie-hartje,hameln,physiotherapie hartje,lower saxony,1-10,physio-hartje.de
+germany,,mU704tLaOhA7U1KJQ2fckgaaMBcm,medical practice,linkedin.com/company/auro-augenpraxisklinik,rosenheim,auro augenpraxisklinik,bavaria,1-10,auro-augenpraxisklinik.de
+germany,,2IY75Wu3RhlJekMC5tpiFApwc005,medical practice,linkedin.com/company/universitätsklinikum-schleswig-holstein-campus-kiel,kiel,universitätsklinikum schleswig-holstein campus kiel,schleswig-holstein,1-10,
+germany,,jrH59fzKDlHABbGym3JTqwincO9e,medical practice,linkedin.com/company/heilpraxis-für-chinesische-medizin,berlin,heilpraxis für chinesische medizin,berlin,1-10,chinesisch-heilen.de
+germany,,mqzCQhfvKx5gCGFA9mDL9AGdZGa9,medical practice,linkedin.com/company/kieferorthopädische-fachpraxis-dr.-beatrix-kuntze,mülheim an der ruhr,kieferorthopädische fachpraxis dr. beatrix kuntze,north rhine-westphalia,1-10,kfo-mh.de
+germany,,nuA5ceGIIAiON0mVJZu2JQ6WbvSz,medical practice,linkedin.com/company/dr.med.-maja-waibel-fachärztin-für-dermatologie,berlin,dr.med. maja waibel fachärztin für dermatologie,berlin,1-10,hautaerzte-in-berlin.de
+germany,,DRhR6zbd0FPjjQ45AHkxBw1rplsh,medical practice,linkedin.com/company/dr.-med.-andre-jakubetz-zahnarztpraxis,wittichenau,dr. med. andre jakubetz zahnarztpraxis,saxony,1-10,burg-praxis.de
+germany,,r5ADv8FJA6wdqjJ1bqVmPABoZwkV,medical practice,linkedin.com/company/clinic-im-centrum-münster,münster,clinic im centrum münster,north rhine-westphalia,1-10,
+germany,,TzzZjOKqkdEn4oCpCextzgVGWtiT,medical practice,linkedin.com/company/herz--und-gefäßzentrum-am-kh-neu-bethlehem,göttingen,herz- und gefäßzentrum am kh neu bethlehem,lower saxony,1-10,kardiologie-goe.de
+germany,,TWKztvHIya6jSIMQXjTvkw5d9a9h,medical practice,linkedin.com/company/vivantes-humboldt-klinikum,,vivantes humboldt-klinikum,berlin,1-10,
+germany,,TkxlrWmbNAsasqVsmW6DHQvZGO0U,medical practice,linkedin.com/company/dr.med.-beate-helgers-fachärztin-für-orthopädie,dorsten,dr.med. beate helgers fachärztin für orthopädie,north rhine-westphalia,1-10,orthopaedie-helgers.de
+germany,,cipCatgJxszqrh7zBwjgOQ3CvNVb,medical practice,linkedin.com/company/kerstin-schnurre-zahnärztin,wunstorf,kerstin schnurre zahnärztin,lower saxony,1-10,hypnosezahnarzt-hannover.de
+germany,,anfK9kK3tB0efpSQ7QHFkAVke4vd,medical practice,linkedin.com/company/orthodocs-wolfsburg,wolfsburg,orthodocs-wolfsburg,lower saxony,1-10,orthodocs-wolfsburg.de
+germany,,WGVwLoAEdLFQOpsfUhfiqwuuNCqX,medical practice,linkedin.com/company/hans-peter-bauer,wörth an der donau,hans-peter bauer,bavaria,1-10,xn--ergotherapie-wrth-donau-llc.de
+germany,,7Z3BwRCsSyCXnkgLXIQApw3zKIcK,medical practice,linkedin.com/company/kinderklinik-schwabing,munich,kinderklinik schwabing,bavaria,1-10,
+germany,,3dRoMhgcYxCLKeVV0GESXgBmnr1O,medical practice,linkedin.com/company/mobile-ergotherapie,egelsbach,mobile ergotherapie,hesse,1-10,ergotherapie-egelsbach.de
+germany,2012,wDHRiVttkGVL6ttJFH4tQA1sdm5M,medical practice,linkedin.com/company/betterdoc-gmbh,cologne,betterdoc,north rhine-westphalia,201-500,betterdoc.org
+germany,,haEMuuSrt5p1MDesfQUYQQXMEwQa,medical practice,linkedin.com/company/neckar-clinic-stuttgart,esslingen,neckar clinic stuttgart,baden-württemberg,11-50,neckarclinic.de
+germany,,rvGsPt1OICOYLRBQzC2HEQs4X2QR,medical practice,linkedin.com/company/awo-helmut-turck--seniorenzentrum,,awo-helmut-turck- seniorenzentrum,,1-10,awo-ha-mk.de
+germany,,6hyoucUiA2jaBddR11k2EAgLxaiq,medical practice,linkedin.com/company/inselpraxis-borkum,borkum,inselpraxis borkum,lower saxony,1-10,inselpraxis-borkum.de
+germany,1993,COF9VDLY58wlD6WXr10OqAVcG1Yk,medical practice,linkedin.com/company/meso-international-gmbh,mittweida,meso international gmbh,saxony,11-50,sonowin.de
+germany,,VcMAOavMfIkeFTRWG3v4EQ7syLwV,medical practice,linkedin.com/company/dr.med.-frank-werner-facharzt-für-innere-medizin-und-kardiologie,unterföhring,dr.med. frank werner facharzt für innere medizin und kardiologie,bavaria,1-10,dr-werner-unterföhring.de
+germany,,mJUVVScrSppBxb4SYDmiZQuYHgMT,medical practice,linkedin.com/company/dr.med.dent.-karl-uwe-jülich-zahnarzt,bergneustadt,dr.med.dent. karl-uwe jülich zahnarzt,north rhine-westphalia,1-10,
+germany,,EbtMkjfWAfkzm3ACm86cDAg86Vrq,medical practice,linkedin.com/company/jean-chalkitis,bottrop,jean chalkitis,north rhine-westphalia,1-10,chalkitis.de
+germany,,HSluRaCrCTv0dFvxM7rSxQSxW8gD,medical practice,linkedin.com/company/susanne-lang,halle,susanne lang,saxony-anhalt,1-10,
+germany,,mSOVgVVSADawPYdpB7IlbgMfGols,medical practice,linkedin.com/company/physiotherapie-espinosa,salem,physiotherapie espinosa,baden-württemberg,11-50,physio-espinosa.de
+germany,,vojuIraZobSpCP0GVCuD6Ava1xB7,medical practice,linkedin.com/company/praxis-für-ernährungsberatung-und--therapie,willich,praxis für ernährungsberatung und -therapie,north rhine-westphalia,1-10,praxisfurernahrungsberatungundtherapie.business.site
+germany,2007,jjqt3NBECEQFkqH9q0oqjQ5HceoD,medical practice,linkedin.com/company/validation-lab-gmbh,wörrstadt,validation lab gmbh,rhineland-palatinate,1-10,validation-lab.com
+germany,,kgP21BBURD2jggQD6U8tjAf6DELN,medical practice,linkedin.com/company/kinesiologische-praxis-ilona-trautvetter,bremen,kinesiologische praxis ilona trautvetter,bremen,1-10,stressloesung.com
+germany,,RqhhUg6BZ9nNXsPWV0V0MgfDzOLr,medical practice,linkedin.com/company/angioclinic-dr-med-j-c-ragg,berlin,angioclinic® dr. med. j. c. ragg,berlin,51-200,angioclinic.de
+germany,,LIDd07yz0hCx5sxR7wB6KgWOinc9,medical practice,linkedin.com/company/haus-salem-altenpflegeheim,kassel,haus salem altenpflegeheim,hesse,1-10,
+germany,,bOq2I1UScxi6xCKLyPX5Zgs61GTx,medical practice,linkedin.com/company/warmesherz-ggmbh,cottbus,warmesherz ggmbh,brandenburg,1-10,warmesherz.de
+germany,,Nc5snzZM5WhSIrQHmpcjxgqHyh4w,medical practice,linkedin.com/company/dr.-sven-glindemann,cologne,dr. sven glindemann,north rhine-westphalia,1-10,
+germany,,CmC0gSEjuQl0U9AX3BHEGghlf806,medical practice,linkedin.com/company/sozialkonzept-dorotheenhof,schwarmstedt,sozialkonzept dorotheenhof,lower saxony,1-10,
+germany,,XR4mi1XkucFOJCcp7Ilk1QoEWBF8,medical practice,linkedin.com/company/fedorov-restore-vision-clinic,berlin,fedorov restore vision clinic,berlin,11-50,restorevisionclinic.com
+germany,,6Vxn4AtgJ6eSjCMrGgGdeAhGloVm,medical practice,linkedin.com/company/kieferorthopädicum-mvz,berlin,kieferorthopädicum mvz,berlin,11-50,kieferorthopaedie-nowroozi.de
+germany,,petui9vtE94lBDpoTcxquANMoYfP,medical practice,linkedin.com/company/praxis-für-osteopathie-wolfgang-lehmann,reutlingen,praxis für osteopathie wolfgang lehmann,baden-württemberg,1-10,praxis-lehmann.net
+germany,,qIruiIXsqBoXbPsBAjKhHAmA5YyG,medical practice,linkedin.com/company/drs.-schmitt,bensheim,drs. schmitt,hesse,1-10,
+germany,,YdiYjuQ2PoZFVkDgWwxdZw8XuybI,medical practice,linkedin.com/company/zenbiomed---nils-drenkhahn,hamburg,zenbiomed - nils drenkhahn,hamburg,1-10,
+germany,,Y3CJwg9n1b6KnzBBKa9IiwKmyNx6,medical practice,linkedin.com/company/naturheilpraxis-andrea-junk,trier,naturheilpraxis andrea junk,rhineland-palatinate,1-10,naturheilpraxis-andreajunk.de
+germany,,FOV6DjVjQDM7bpcRa1c6NglaUfGb,medical practice,linkedin.com/company/allgemeines-krankenhaus-celle-entbindung-gynäkologie,celle,allgemeines krankenhaus celle entbindung/gynäkologie,lower saxony,1-10,
+germany,,dnEUqnDaZBTu3Vn2BnXXGAwnA5hX,medical practice,linkedin.com/company/uwe-schulz,rüsselsheim,uwe schulz,hesse,1-10,chiropraktik-schulz.de
+germany,,OiC8cyR6MBmUOnlHRrTfBQsD2YKW,medical practice,linkedin.com/company/stillpunkt,tarmstedt,stillpunkt,lower saxony,1-10,physio-zeven.de
+germany,,7d17Tg3QblB2dwwQupVGgg2bnsoI,medical practice,linkedin.com/company/schöne-zähne-glandorf-dr.-maren-kahle-m.sc.-und-dr.-klaus-wortmann,glandorf,"schöne zähne glandorf, dr. maren kahle, m.sc. und dr. klaus wortmann",lower saxony,1-10,schoene-zaehne-glandorf.de
+germany,,JHjMmbG1Zpq8Ic7zbvr19Q2HzvlE,medical practice,linkedin.com/company/aoz-hildesheim,hildesheim,aoz hildesheim,lower saxony,1-10,aoz-hildesheim.de
+germany,,9LC8Jrp59YPK1L3lBwlZdQwpVlGQ,medical practice,linkedin.com/company/praxis-alexander,schwerin,praxis alexander,mecklenburg-vorpommern,11-50,praxis-alex-berlin.com
+germany,,pLztcGhClfCGC1BFTJiJBwKtBMd1,medical practice,linkedin.com/company/praxis-für-psychotherapie-und-prävention-bielefeld---verena-krüger,bielefeld,praxis für psychotherapie und prävention bielefeld - verena krüger,north rhine-westphalia,1-10,ppp-bielefeld.de
+germany,,lTcEWN39dta7guW34NPsQg1ftYu8,medical practice,linkedin.com/company/praxis-für-ganzheitliche-zahnheilkunde,kelsterbach,praxis für ganzheitliche zahnheilkunde,hesse,1-10,gzm-hessen.de
+germany,,57UUGbaKEZl0hwtWhxTkXQcwm7HZ,medical practice,linkedin.com/company/gerber-für-ihre-augen,forchheim,gerber - für ihre augen,bavaria,1-10,
+germany,,xG848u9FBfAht06HNDnKWQBvktvQ,medical practice,linkedin.com/company/caritas---gemeindepsychiatrisches-zentrum-darmstadt,darmstadt,caritas - gemeindepsychiatrisches zentrum darmstadt,hesse,1-10,
+germany,,d2fvLwY94gexEfKUJbWWGQ7A4CPi,medical practice,linkedin.com/company/chirobalance,porta westfalica,chirobalance,north rhine-westphalia,11-50,chiro-balance.de
+germany,,RyV7mQ69Idz7CYTmgZaTEwWbel9l,medical practice,linkedin.com/company/augenpraxis-dr,frankfurt,augenpraxis dr,hesse,1-10,augenpraxis-sachsenhausen.de
+germany,,E8BK4jrwY73NZ7iBONTloQBNeR4s,medical practice,linkedin.com/company/praxisklinik-elisenpalais,aschaffenburg,praxisklinik elisenpalais,bavaria,1-10,praxisklinik-ab.de
+germany,,mXvHo4D6OgjflPm0bRIyBgbfKhZe,medical practice,linkedin.com/company/dr.-dr.-med.-kirsten-otten,oberhausen,dr. dr. med. kirsten otten,north rhine-westphalia,1-10,hausarztpraxis-otten.de
+germany,,OGu6iVZvzUO6rKgC1YyAiQosLVsH,medical practice,linkedin.com/company/münchenstift-st.-josef,munich,münchenstift st. josef,bavaria,1-10,
+germany,,fCIaCHuEfkv24tABSa3CWQJPrmsN,medical practice,linkedin.com/company/dr.med.dent.-peter-kohlhas-zahnarzt-f.kieferorthopädie,baden-baden,dr.med.dent. peter kohlhas zahnarzt f.kieferorthopädie,baden-württemberg,1-10,ortho-kohlhas.com
+germany,,Re4rxVojh6qUn7M2Ko4wxwuglH10,medical practice,linkedin.com/company/enders-anja-praxis-für-allgemeinmedizin-naturheilverfahren,stuttgart stuttgart-nord,enders anja praxis für allgemeinmedizin-naturheilverfahren,baden-württemberg,1-10,praxis-enders.de
+germany,,SVQkQJ3Rl5ahXRZhrEbCQwG5OwEf,medical practice,linkedin.com/company/the-spine-method,wuppertal,the spine method,north rhine-westphalia,1-10,thespinemethod.de
+germany,,BcOcadNCTTTTCuF7Etiglgt2zZ9G,medical practice,linkedin.com/company/ph-rückenplus,beckum,ph rückenplus,north rhine-westphalia,1-10,ph-rueckenplus.de
+germany,,nXj6McpaDEDBJ9tARfbYhwMEy5Wh,medical practice,linkedin.com/company/orthopädisch-chirurgische,munich,orthopädisch-chirurgische,bavaria,1-10,
+germany,,ghlDbzwv75BoyWVj8uETSQctLC1o,medical practice,linkedin.com/company/heupel,berlin,heupel,berlin,11-50,heupel.de
+germany,,2Z7SJmLyG9VB1vN0JeSdyQKLRdzr,medical practice,linkedin.com/company/vistano-lebensberatung,frankfurt,vistano lebensberatung,hesse,1-10,
+germany,,EeXFx1MCPsWqECXVXRIR9gKm04el,medical practice,linkedin.com/company/gemeinschaftspraxis-am-rathausplatz,dinklage,gemeinschaftspraxis am rathausplatz,lower saxony,1-10,praxis-rathausplatz.de
+germany,2006,CJxNLq49VWoQrS1haoUoWA6HTheV,medical practice,linkedin.com/company/drkrukenberg-elstal,elstal,arzt elstal dr. andreas krukenberg,brandenburg,1-10,drkrukenberg-elstal.de
+germany,,bmcV1LGzHA511putQM4RBgWx0zwv,medical practice,linkedin.com/company/praxis-für-physiotherapie-&-heilkunde,quedlinburg,praxis für physiotherapie & heilkunde,saxony-anhalt,1-10,physioqlb.wordpress.com
+germany,,2yBbQ0z9QOBdG25rVnw5FgFoM0GQ,medical practice,linkedin.com/company/die-kinderpraxis,hamburg,die kinderpraxis,hamburg,1-10,diekinderpraxis.de
+germany,,u965HdDXeg8DdjahZItgtgd92rJN,medical practice,linkedin.com/company/zahnarztpraxis-dr.-markus-georg,ludwigshafen,zahnarztpraxis dr. markus georg,rhineland-palatinate,1-10,
+germany,,L2zq2ywDk6kfEzW5WM0RbwotbfbL,medical practice,linkedin.com/company/deutsches-institut-für-ernährungsforschung,nuthetal,deutsches institut für ernährungsforschung,brandenburg,1-10,
+germany,,G8BobldXCPczTyqdQL2ByAhXrrWr,medical practice,linkedin.com/company/zentrummensch,eichenzell,zentrummensch,hesse,1-10,zentrummensch.de
+germany,,vOcHR0usp1Uv2mi2plOCJQ5j7yvu,medical practice,linkedin.com/company/johann-wutz,neukirchen-balbini,johann wutz,bavaria,1-10,
+germany,,T1JoCZkj97Kudxvo17tKfwBr2kmg,medical practice,linkedin.com/company/zahnexperten,wunstorf,zahnexperten,lower saxony,11-50,zahnexperten-wunstorf.de
+germany,,Lx3cBe2a66dpPG9vtyOLSAarxCE7,medical practice,linkedin.com/company/babyschwimmen-martina-meyer,hamburg,babyschwimmen martina meyer,hamburg,1-10,babyschwimmen.hamburg
+germany,,CrVsz9zEEqlYbe335MAmQAO9CVgT,medical practice,linkedin.com/company/um4life,pastetten,microbiota4life,bavaria,1-10,florbelajantonio.wixsite.com/um4life
+germany,,e6MwfpYxAZXG5jgromD9Ug78FSeM,medical practice,linkedin.com/company/gemeinschaftspraxis-siegeris,siegen,gemeinschaftspraxis siegeris,north rhine-westphalia,1-10,praxis-siegeris.de
+germany,,l3j2fOwRVozucypLIbRWAQsGCNvV,medical practice,linkedin.com/company/stecamed-gmbh,,stecamed gmbh,,1-10,stecamed.de
+germany,,o4yXzcR0EGhCFJh9SAv2ngEtRMbA,medical practice,linkedin.com/company/gemeinschaftspraxis-ulrich-mayer-und-dr.inge-bruckner,olching,gemeinschaftspraxis ulrich mayer und dr.inge bruckner,bavaria,1-10,ressel-mayer-bruckner.de
+germany,,qKq2FLoqJp3TYEs1LFTLUwqSe1Nz,medical practice,linkedin.com/company/consultpsy,hamburg,consultpsy,hamburg,1-10,consultpsy.fr
+germany,2010,CysTbjlCBtG90RQHFbRWgAFtxERG,medical practice,linkedin.com/company/doceomed-bildungszentrum,gütersloh,"doceomed | bildungszentrum für erste-hilfe, notfallmedizin und brandschutz",north rhine-westphalia,11-50,doceomed.info
+germany,,BfhBTdXzwWO5CDF3VSBB2QzS2NEJ,medical practice,linkedin.com/company/zahnarztpraxis-dr.gross-und-schilling,böblingen,zahnarztpraxis dr.gross und schilling,baden-württemberg,1-10,zahnarztpraxis-gross-schilling.de
+germany,,9TjYCxXr2HsdAwIG2LBhoQAaf79r,medical practice,linkedin.com/company/whb-refrath-wohnhaus-für-behinderte-ggmbh,bergisch gladbach,whb refrath wohnhaus für behinderte ggmbh,north rhine-westphalia,1-10,
+germany,,hfmX2S9G6AtySVGP67aM5giw5pip,medical practice,linkedin.com/company/seniorenzentrum-heilig-geist,aachen,seniorenzentrum heilig geist,north rhine-westphalia,1-10,
+germany,,kK6SKNikijl8iMXKXusYiQAVfWiy,medical practice,linkedin.com/company/hausärzteverband-westfalen-lippe,unna,hausärzteverband westfalen-lippe e.v.,north rhine-westphalia,11-50,hausaerzteverband-wl.de
+germany,,jjXibABdumWqUoxycPq58gmiQ40o,medical practice,linkedin.com/company/kinderzahnarztpraxis---dr.-dr.-ursula-zeitler,erlangen,kinderzahnarztpraxis - dr. dr. ursula zeitler,bavaria,1-10,zahnarztpraxis-zeitler.de
+germany,,8V3QSTQcwvxjRAJqFQlFkQDAP9k0,medical practice,linkedin.com/company/aggertalklinik-klinik-für-erkrankung-der-bewegungsorgane,engelskirchen,"aggertalklinik, klinik für erkrankung der bewegungsorgane",north rhine-westphalia,1-10,
+germany,,SmYSb16ibsnAXQ05BzUrCg2rCYJw,medical practice,linkedin.com/company/zahnwelt,blankenfelde,zahnwelt,brandenburg,11-50,zahn-welt.de
+germany,,TCCPG6LZjc3e4UAwWTl8Bgzjz9eo,medical practice,linkedin.com/company/praxisprophysio,niederwinkling,praxisprophysio,bavaria,11-50,praxisprophysio.com
+germany,,pGDwYXydANoYB0Qf90xaIgjTM2t6,medical practice,linkedin.com/company/orthopädie-praxis-dr.-hühn,berlin,orthopädie praxis dr. hühn,berlin,1-10,praxis-dr-huehn.de
+germany,,u3blBNn8guktQKV466X6twLld7f8,medical practice,linkedin.com/company/gemeinschaftspraxis-dres.-gudrun-schuster-und-stefan-zimmermann,hirschaid,gemeinschaftspraxis dres. gudrun schuster und stefan zimmermann,bavaria,1-10,arztpraxis-sassanfahrt.de
+germany,,eowoStEOXENpSqgqaKljPQXAqLja,medical practice,linkedin.com/company/dentaloase,bad wiessee,dentaloase,bavaria,1-10,dentaloase.de
+germany,,cq0B6wvoIO6Wzl3khCNhug9xVrj4,medical practice,linkedin.com/company/hautpraxis-pd-dr,wittlich,hautpraxis pd dr,rhineland-palatinate,1-10,hautpraxis-pfliegerbruss.de
+germany,,u1q9XeZjojlfre5gw8SB0gfA8xRG,medical practice,linkedin.com/company/praxis-für-komplementärmedizin-marion-plank-heilpraktikerin,regensburg,praxis für komplementärmedizin marion plank heilpraktikerin,bavaria,1-10,bpw-regensburg.de
+germany,,MYGGTMfYpcUtGyOwXI8zOQ5WXrFl,medical practice,linkedin.com/company/seniorenheim-haus-hubertus,wangen im allgäu,seniorenheim haus hubertus,baden-württemberg,1-10,sph-haus-hubertus.de
+germany,,zBvFO0YDUCTXrHzNKQGMJg5bOei4,medical practice,linkedin.com/company/physiocenter-hahn,,physiocenter hahn,,11-50,physiocenter-hahn.de
+germany,,23dtv74fV3aeiTUnPBW7NwGeYhis,medical practice,linkedin.com/company/physiotherapie-jans,rheinberg,physiotherapie jans,north rhine-westphalia,1-10,physiojans.de
+germany,2013,IPhXNqirMcQbdAMAuFnbRAyoxeFe,medical practice,linkedin.com/company/mphysio,lohne,mphysio,lower saxony,1-10,mphysiolohne.de
+germany,,yvtqhQqB1nNC4HmBXhr6CQqiEcNB,medical practice,linkedin.com/company/dr.-med.-mohsen-ghasemi-conjani,hamburg,dr. med. mohsen ghasemi conjani,hamburg,1-10,
+germany,,oCEmhRvNnBS705hCRBj5qgwZFxV8,medical practice,linkedin.com/company/dr.-thomas-wawerla,hamburg,dr. thomas wawerla,hamburg,1-10,wawerlakrull.de
+germany,,tjw1RMefRIlBKLeTa9DIYQQfP9uC,medical practice,linkedin.com/company/praxis-katrin-deibert-räder,gundersheim,praxis katrin deibert-räder,rhineland-palatinate,1-10,praxis-deibert.de
+germany,,8LD1ji8V68xzLasJMNjeQAIizgQl,medical practice,linkedin.com/company/zahnärzte-hülser-markt-dr.-felix-rehberg-&-dr.-charlotte-schürmann,krefeld,zahnärzte hülser markt dr. felix rehberg & dr. charlotte schürmann,north rhine-westphalia,1-10,zahnarzt-huels.de
+germany,,hvj9YGz236wUnNERWWTB6wflUaff,medical practice,linkedin.com/company/caritas--altenpflegeheim-st.-josefinum,haldensleben,caritas- altenpflegeheim st. josefinum,saxony-anhalt,1-10,
+germany,,TTjSH1ioFORyqNoHXwptDACZfgJW,medical practice,linkedin.com/company/krankenhaus-martha-maria-halle-dölau-ggmbh-klinik-für-orthopädie,halle,krankenhaus martha-maria halle-dölau ggmbh klinik für orthopädie,saxony-anhalt,1-10,
+germany,,OPwrKg9kvxFahkTtf1fKxgsIRJ4w,medical practice,linkedin.com/company/dr.-med.-cordelia-schott-praxis-für-orthopädie,essen,dr. med. cordelia schott praxis für orthopädie,north rhine-westphalia,1-10,inbit.de
+germany,,kKgttAUfkKZZSHYcdQwXJwMJfeEi,medical practice,linkedin.com/company/prof.dr.dr.med.-klaus-kölling-facharzt-für-innere-medizin-und-kardiologie,münchen,prof.dr.dr.med. klaus kölling facharzt für innere medizin und kardiologie,bavaria,1-10,prof-koelling.de
+germany,,JAUPGddnDXqH0UStospvBwh5XdIY,medical practice,linkedin.com/company/gemeinschaftspraxis-dentalpro,ingelheim,zahnarztpraxis dentalpro,rhineland-palatinate,1-10,dentalpro.de
+germany,,L9A2wtUqfOiiCjc5aoemOAHyuSW1,medical practice,linkedin.com/company/schwulenberatung-kursiv,berlin,schwulenberatung kursiv,berlin,1-10,
+germany,,rfOIz6tvw2zbsYiKvoyiWwRmrnzb,medical practice,linkedin.com/company/naturheilpraxis-markus,rheurdt,naturheilpraxis markus,north rhine-westphalia,1-10,naturheilpraxis-homma.de
+germany,,gvFdZL3Wb2BBW2vVuqdNCA1QN7Gj,medical practice,linkedin.com/company/ambulantes-schmerzzentrum,münchen,ambulantes schmerzzentrum,bavaria,1-10,ambulantes-schmerzzentrum.de
+germany,,GI3NaHlIBBGvR8C04XrDtAf5x4yD,medical practice,linkedin.com/company/dr.-boorboor,hannover,dr. boorboor,lower saxony,1-10,dr-boorboor.de
+germany,,4LeEhpSPhrfB12gj36szFAtnoChT,medical practice,linkedin.com/company/videmus-münchen-partg,münchen,videmus münchen partg,bavaria,1-10,videmus-muenchen.de
+germany,,Osh4KABAkPl4aBez9pya2gjWJGiP,medical practice,linkedin.com/company/tcm-praxis-leipzig,leipzig,tcm praxis leipzig,saxony,11-50,tcm-praxis-leipzig.de
+germany,1981,CQok8KwCyOkosv288cjlCgJ3vP4j,medical practice,linkedin.com/company/gastropraxis,mönchengladbach,gastropraxis mönchengladbach,north rhine-westphalia,11-50,gastropraxis.de
+germany,,r7Q66SHOFbij2CooeLinIAwtByBA,medical practice,linkedin.com/company/dpuw-deutsche-pflege-und-wohnstift-gmbh,berlin,dpuw deutsche pflege und wohnstift gmbh,berlin,1-10,dpuw.de
+germany,,1jgeVU4s3vl2eMlA7sgomgDWwE9L,medical practice,linkedin.com/company/prodent-zahntechnik,bad honnef,prodent zahntechnik,north rhine-westphalia,1-10,prodentzahntechnik.de
+germany,,GJCGoePKlewHMHBfoOuRWABjzuJZ,medical practice,linkedin.com/company/fetzer-schulungen,moosburg,fetzer schulungen,bavaria,1-10,fetzer-schulungen.de
+germany,,2h7RVMmkC5XFa6CsJh2CZAHp4Orl,medical practice,linkedin.com/company/sanitätshaus-müller-betten,engelskirchen,sanitätshaus müller betten,north rhine-westphalia,1-10,
+germany,,Rpk7ZkCKNCgKZkE6hhh0PwAlT0w0,medical practice,linkedin.com/company/zaho-rheinland,bonn,zaho rheinland,north rhine-westphalia,1-10,zaho-rheinland.de
+germany,2020,6jfaCgM796epvrS95QANoQRiKC0C,medical practice,linkedin.com/company/unitedmedical,nuremberg,united medical gmbh,bavaria,1-10,unitedmed.de
+germany,,HayWU4cNIGQOaCciRAzKSQU5PH0w,medical practice,linkedin.com/company/praxis-radiologie,,praxis radiologie,,1-10,radiologie-mv.de
+germany,,Hee2pVNKmXJYCqhJBBTKzguclajk,medical practice,linkedin.com/company/johanniter-stift,wassenberg,johanniter-stift,north rhine-westphalia,1-10,
+germany,,gptPDZmt0SwaC9kBUVzpvQrHMC8L,medical practice,linkedin.com/company/dr.med.-armin-kolb-facharzt-für-orthopädie,weingarten,dr.med. armin kolb facharzt für orthopädie,baden-württemberg,1-10,orthopaedie-weingarten.de
+germany,,PJsx7C3jYOrNVgRMYc8GeAJOAV0k,medical practice,linkedin.com/company/leinemund,seelze,leinemund,lower saxony,11-50,leinemund.de
+germany,,JC3BGi5IiS0nzyIIWW4YzwBUxiLk,medical practice,linkedin.com/company/praxis-am-goldberg,gelsenkirchen,praxis am goldberg,north rhine-westphalia,1-10,praxisamgoldberg.de
+germany,,FNLpnXWwppOQtnfhDgFQPQApdtNH,medical practice,linkedin.com/company/klinkum-lichtenfels,,klinkum lichtenfels,,1-10,klinikum-lichtenfels.de
+germany,1998,f1YJ2n2Bi8Cuvis2vy2r0QVTAw3B,medical practice,linkedin.com/company/medi1one-medical-gmbh,fellbach,medi1one medical gmbh,baden-württemberg,51-200,medi1one.de
+germany,,knwGB97MiCmIB9WOCIsmAAgTZzqM,medical practice,linkedin.com/company/physiowid-therapie,cologne,physiowid therapie,north rhine-westphalia,1-10,physiowid.de
+germany,,ivqG1g8gozkH5Z0TM7vGww02ps4b,medical practice,linkedin.com/company/schmerzpraxis,böblingen,schmerzpraxis,baden-württemberg,1-10,schmerzpraxis-bb.de
+germany,,BH7RuIaKUKrL0PkWmSgiyApOmFMt,medical practice,linkedin.com/company/energetische-körperarbeit,berlin,energetische körperarbeit,berlin,1-10,energetische-koerperarbeit-online.de
+germany,,CBW9PrVi32AjBJZKC3JmKAOxjfsf,medical practice,linkedin.com/company/dr.med.u.-armbrecht,hannover,dr.med.u. armbrecht,lower saxony,1-10,
+germany,,GikhJ7HQZWHwDhQyEyGq8ARy6vto,medical practice,linkedin.com/company/prisma-klinik-am-park,bad sassendorf,prisma klinik am park,north rhine-westphalia,1-10,
+germany,1954,3hBB2aKG9A6IsB1DxHnrDgORmIUN,medical practice,linkedin.com/company/frohberg---klinik-wissen-managen,berlin,frohberg - klinik-wissen-managen,berlin,51-200,frohberg.de
+germany,1991,CI0z27mk3vQcMw5scJBsSQzTrW76,medical practice,linkedin.com/company/zfos,münchen,zfos - zentrum für orthopädie & sportmedizin,bavaria,11-50,zfos.de
+germany,,Fl8TcIYpjZ9lekr9FghA3QfmOHJw,medical practice,linkedin.com/company/klinikum-nordfriesland-ggmbh,husum,klinikum nordfriesland ggmbh,schleswig-holstein,1-10,
+germany,,PVCLyMvzpw0XfJ727CcvQAlxypkL,medical practice,linkedin.com/company/thüringer-hausärzteverband,rudolstadt,thüringer hausärzteverband,thuringia,1-10,hausarzt-thueringen.de
+germany,,LwDbROIVV3AMI14DZsu1cQtCdTqz,medical practice,linkedin.com/company/herz-jesu-krankenhaus-hiltrup-augenabteilung,münster,herz-jesu-krankenhaus hiltrup augenabteilung,north rhine-westphalia,1-10,
+germany,2009,yxYyACK1vwp6gaiFI7UG5Q7nSCL6,medical practice,linkedin.com/company/botiss-biomaterials,berlin,botiss biomaterials,berlin,51-200,botiss-dental.com
+germany,,l6XpxA3BWbfAzht8CEmANQiWQYA7,medical practice,linkedin.com/company/dr.-med.-gregor-droscha,rosenheim,dr. med. gregor droscha,bavaria,1-10,doktordroscha.de
+germany,,OaENqFnfbgw2HGN93p6OeArPuufV,medical practice,linkedin.com/company/praxis-am-bertrandishof,recklinghausen,praxis am bertrandishof,north rhine-westphalia,1-10,praxis-am-bertrandishof.de
+germany,,N4KFyh2oCOlJ70v7CYDOCgKo6Wit,medical practice,linkedin.com/company/prosenis-service-gem.gmbh,nienburg,prosenis service gem.gmbh,lower saxony,1-10,
+germany,,E0XuxPvgqu1mNl1yYSLz7AlszXa0,medical practice,linkedin.com/company/ganzheitliches-lebenskonzept,wechselburg,ganzheitliches lebenskonzept,saxony,1-10,ganzheitliches-lebenskonzept.de
+germany,,7XVbB53HaBBFcJVpxbbGGgdQtEHc,medical practice,linkedin.com/company/peter-silbermann,berlin,peter silbermann,berlin,1-10,
+germany,,td2zLmCjmyn6TtnHNN4HmAsxd3wI,medical practice,linkedin.com/company/kinderzentrum-st,regensburg,kinderzentrum st,bavaria,1-10,kinderzentrum-regensburg.de
+germany,,VgrfNoDMBrwCB2kjFHnwZQzGNtig,medical practice,linkedin.com/company/hno-stimme-sprache-und-gehör-am-theodor-heuss-platz,berlin,"hno, stimme, sprache und gehör am theodor-heuss-platz",berlin,1-10,hno-stimme-sprache-gehoer.de
+germany,,AI7ewEXI3naJFehBZHI57AyTg3AY,medical practice,linkedin.com/company/rosenberg-ayurveda,birstein,rosenberg ayurveda,hesse,11-50,
+germany,,MeZ5slByGB0lvTpsEiRCPgxIfeuB,medical practice,linkedin.com/company/dr.med.dent.-thomas-wölfel-zahnarzt,nuremberg,dr.med.dent. thomas wölfel zahnarzt,bavaria,1-10,dr-woelfel.de
+germany,,UbvjZ6Q5gPCry6pbDXHMcwHZIPKH,medical practice,linkedin.com/company/stemweder-physiotherapie-inh.-sonja-döhnert,stemwede,stemweder physiotherapie inh. sonja döhnert,north rhine-westphalia,1-10,stemweder-physiotherapie.de
+germany,,XgWe0sTmjes3A4tfDXBQYQIvmIop,medical practice,linkedin.com/company/familienpraxis,elzach,familienpraxis,baden-württemberg,11-50,familienpraxis-elztal.de
+germany,,15BkvYyKrwS3BixLjjeREAmG6Vrp,medical practice,linkedin.com/company/dr.-peter-kaufmann,kernen im remstal,dr. peter kaufmann,baden-württemberg,1-10,augenarzt-kaufmann-gebauer.de
+germany,,sYjZRANSetQA0clou4TtzgAV2Of5,medical practice,linkedin.com/company/physiosales®-gmbh,dresden,physiosales® gmbh,saxony,1-10,physiosales.de
+germany,,6EYWr8GcKjHJCFnDacICLAt1Dqk3,medical practice,linkedin.com/company/radiologiezentrum-bremen,bremen,radiologie am st. joseph-stift,bremen,51-200,radiologie-in-bremen.de
+germany,,7mqiUomVxk0IS3h3MVo2oQEDi7fI,medical practice,linkedin.com/company/praxis-für-physiotherapie-de-winter-und-kruse-gbr,dinslaken,praxis für physiotherapie de winter und kruse gbr,north rhine-westphalia,1-10,dewinter-kruse.de
+germany,,BHo9LwtGrBDBAUihZ2X84gtoz9ST,medical practice,linkedin.com/company/augenallianzzentrum,ingolstadt,augenallianzzentrum,bavaria,11-50,aaz-ei.de
+germany,,E2lw9ROWNbNkXJe3Vc3A3AfdeHR3,medical practice,linkedin.com/company/athleticum-junge-gmbh,göttingen,athleticum junge gmbh,lower saxony,1-10,athleticum-junge.de
+germany,,YSuBzHB2czBy5jyYyVUy5Q5PPQSx,medical practice,linkedin.com/company/praxis-im-rosenhof---anke-föh-harshman,hadamar,praxis im rosenhof -  anke föh-harshman,hesse,1-10,praxis-im-rosenhof.com
+germany,,CW6aqwxGCjMour2J0DL3EgIFBCtY,medical practice,linkedin.com/company/burgenlandklinik,bad kösen,burgenlandklinik,saxony-anhalt,1-10,medinet-ag.de
+germany,,lgbUuCEQ7pxXVCJ1YbIlLgL09ynO,medical practice,linkedin.com/company/strahlentherapie-zentrum-harburg,,strahlentherapie zentrum harburg,,1-10,szha.info
+germany,,pMHjsC6cryIPLoUB6BH0AwpWlZMk,medical practice,linkedin.com/company/praxis-für-ernährungstherapie-und-beratung-birthe-krenski,duisburg,praxis für ernährungstherapie und beratung birthe krenski,north rhine-westphalia,1-10,issdichgesund.de
+germany,2004,IIOQcdXLpcWMPm24MT9Dlw7Fo6A7,medical practice,linkedin.com/company/vmscope-gmbh,berlin,vmscope gmbh,berlin,1-10,vmscope.com
+germany,,ydS65DGrLYL5CEltkeL2awdlBWVy,medical practice,linkedin.com/company/elbe-klinikum-stade-buxtehude-chirurgische-abteilung,buxtehude,elbe klinikum stade-buxtehude chirurgische abteilung,lower saxony,1-10,
+germany,1906,ENOudufpRRJP2roEnvC46gxUjB43,medical practice,linkedin.com/company/deutsche-gesellschaft-für-urologie,düsseldorf,deutsche gesellschaft für urologie,north rhine-westphalia,1001-5000,dgu.de
+germany,,9TQsXNfXjPsNk8mF0GTQ5A80yb5w,medical practice,linkedin.com/company/praxisklinik-orthospine,ansbach,praxisklinik orthospine,bavaria,1-10,praxisklinik-orthospine.de
+germany,,sBIinPHBCjNYR97rp7r5OAI06p0D,medical practice,linkedin.com/company/naturheilpraxis-delavie,kumhausen,naturheilpraxis delavie,bavaria,1-10,naturheilpraxis-delavie.de
+germany,,VBb1tljtbHqA24qYOJprqgTiXuYO,medical practice,linkedin.com/company/zahnarztpraxis-hochheim-dr.-fabian-corvers,hochheim am main,zahnarztpraxis hochheim dr. fabian corvers,hesse,1-10,zahnarztpraxis-hochheim.de
+germany,,J2QCGcjYDyDXe8cXbKojLgEKygeC,medical practice,linkedin.com/company/manfred-klaus,buchloe,manfred klaus,bavaria,1-10,manfredklaushonisch.de
+germany,,Dz90BPF4SIvmijMef2bqbw3Ja2k5,medical practice,linkedin.com/company/neuradia,braunschweig,neuradia,lower saxony,11-50,neuradia.de
+germany,,jxCzKgAuhvDDWB6kxCY2hQidvsH6,medical practice,linkedin.com/company/krankenhaus-hagen,,krankenhaus hagen,,1-10,kkh-hagen.de
+germany,,KQCPIIIkqQmkgBKHUCCq2wb9olOq,medical practice,linkedin.com/company/dental-cabinet-perładent,penkun,dental cabinet perładent,mecklenburg-vorpommern,1-10,perladent.pl
+germany,,d3Bg6kMyEt35Qi017ApGFw3isqbA,medical practice,linkedin.com/company/zahnarztpraxis-dr-katharina-mann,bayreuth,zahnarztpraxis dr. katharina mann,bavaria,1-10,praxis-dr-mann.de
+germany,,51Ydo9WQuZ1qQyX9xXJfYwQhQUID,medical practice,linkedin.com/company/proortho-ag,munich,proortho ag,bavaria,1-10,proortho.de
+germany,,vm11Qjc5pzXmjln49tcJlwPCmDy5,medical practice,linkedin.com/company/gemeinschaftspraxis-dr.med.-walter-mix-und-hans-peter-adolf,verden,gemeinschaftspraxis dr.med. walter mix und hans-peter adolf,lower saxony,1-10,mix-und-adolf.de
+germany,,7KVDiWgHd3HjZ8CfMKYLxQUGG0B1,medical practice,linkedin.com/company/klinik-für-ästhetisch-plastische-chirurgie-rhein-neckar,ludwigshafen,klinik für ästhetisch plastische chirurgie rhein-neckar,rhineland-palatinate,11-50,schoenheitschirurgie-rhein-neckar.de
+germany,,eByItRBxen5Jrm5jTjWstwVWTcl1,medical practice,linkedin.com/company/aktiv-physiotherapie,bindlach,aktiv physiotherapie,bavaria,1-10,aktivphysiotherapie.de
+germany,,S9RILh09UE5R6aUM7ELfxwdgiSNM,medical practice,linkedin.com/company/strandzahn.de,timmendorfer strand,strandzahn.de,schleswig-holstein,1-10,strandzahn.de
+germany,,kBJsOwwaqNzqiytWeNxyjAOfrbwD,medical practice,linkedin.com/company/augenärzte-am-meer,wilhelmshaven,augenärzte am meer,lower saxony,1-10,augenaerzte-am-meer.de
+germany,,2A7BPKkDRKO05liXdJq8RA1JMZ0H,medical practice,linkedin.com/company/zahnarztpraxis-dr.-hähnel-dr.-straub,frankenthal,zahnarztpraxis dr. hähnel / dr. straub,rhineland-palatinate,1-10,zahnarztpraxis-haehnel-straub.de
+germany,,vgQDwgtYJSx7sWNtCvkFnwtp8H4L,medical practice,linkedin.com/company/geburtshaus-erfurt,erfurt,geburtshaus erfurt,thuringia,1-10,erfurter-geburtshaus.de
+germany,,7pqPasBO39a4tM0pDl6DBgTtXi1r,medical practice,linkedin.com/company/rheumapraxis-dr,hannover,rheumapraxis dr,lower saxony,1-10,rheumapraxis.org
+germany,,mCPGomSC3ATr9tgRteatwwDPZGwY,medical practice,linkedin.com/company/dr-christoph,baden-baden,dr christoph,baden-württemberg,1-10,dr-christoph-kaiser-baden-baden.de
+germany,,9d6WiKrkufC0nS4ccjh3RA41YoE1,medical practice,linkedin.com/company/activa-physiotherapie,pforzheim,activa physiotherapie,baden-württemberg,1-10,activa-physio.de
+germany,,zzVz454UzP55am8izGQiRAmDO4mM,medical practice,linkedin.com/company/osn-med,gilching,osn med,bavaria,1-10,osn-med.de
+germany,,3jeQ0sd9yTFesNBs8Y38nAiXr6KF,medical practice,linkedin.com/company/gabriele-schwope-holz,fürth,gabriele schwope-holz,bavaria,1-10,gabrieleholz.de
+germany,2019,CerkJ5ONzJUt02QIB6gyiAYVDtkV,medical practice,linkedin.com/company/praxis-holstenbrauerei,neumünster,praxis für implantologie und oralchirurgie in der alten holstenbrauerei neumünster,schleswig-holstein,1-10,praxis-holstenbrauerei.de
+germany,,2CjDqMNjNbsFFEIfsgshXQfp2JA0,medical practice,linkedin.com/company/diabetes-münchen,münchen,diabetes münchen,bavaria,1-10,diabetes-muenchen.de
+germany,,bSdjui8hzNj2kcwBFsYykAOVmDMX,medical practice,linkedin.com/company/temmler-pharma,marburg,temmler pharma,hesse,1-10,
+germany,,fzXJwVwwLYGbB1w1vv4UQwvvBMja,medical practice,linkedin.com/company/neurozentrum,bingen am rhein,neurozentrum,rhineland-palatinate,1-10,neurozentrum-bingen.de
+germany,,h83eojmc9znDBbTCoJmG1ARKAJko,medical practice,linkedin.com/company/laserskin---tattooentfernung,berlin,laserskin - tattooentfernung,berlin,1-10,laserskin-berlin.de
+germany,,WYBK4BtJSjJZL0NODvSIxg1cC8Bh,medical practice,linkedin.com/company/gpd-nordost,hamburg,gpd-nordost,hamburg,1-10,gpd-nordost.de
+germany,,fch3NniScdD3lEZ3bizecwHVhxKc,medical practice,linkedin.com/company/therapiezentrum-westerstede,westerstede,therapiezentrum westerstede,lower saxony,1-10,thz-westerstede.de
+germany,,Xo1ZtADqueZdsKzYFPyaEgT66onB,medical practice,linkedin.com/company/therapiezentrum-b12,lechbruck,therapiezentrum b12,bavaria,1-10,therapiezentrum-lechbruck.de
+germany,,gOQzQD4SMjCIX0XO1GIUlQjSLaan,medical practice,linkedin.com/company/praxis-für-osteopathie-und-shiatsu,cologne,praxis für osteopathie und shiatsu,north rhine-westphalia,1-10,shiatsu-cologne.de
+germany,,HuPAOhgqxP41JyBRqXNn0gSs4ILf,medical practice,linkedin.com/company/wohnen-am-schlossanger,,wohnen am schlossanger,,1-10,wohnen-am-schlossanger.de
+germany,,GCWeEKSAoBcmSryEBc12rQgLIouR,medical practice,linkedin.com/company/praxisklinik-rechts,leverkusen,praxisklinik rechts,north rhine-westphalia,1-10,praxisklinik-rechts-am-rhein.de
+germany,,BxydH8FmuyaDNhZA0QPsCAIRdpP8,medical practice,linkedin.com/company/praxisklinik-charlottenburg,berlin,praxisklinik charlottenburg,berlin,1-10,praxisklinik-charlottenburg.de
+germany,,Fkb63z0OOQn34DNDNwr8GQV4FH5d,medical practice,linkedin.com/company/wirbelsäulen-institut-münchen,münchen,wirbelsäulen-institut münchen,bavaria,1-10,wi-muenchen.de
+germany,,Gcnl49qjv6l6fDGBPtTcEARZ7lZj,medical practice,linkedin.com/company/natürlich-gesund,gotha,natürlich gesund,thuringia,1-10,natuerlichgesund-vet.de
+germany,,ATYEdFKOBsaKC4M93mBhbg3iCT4c,medical practice,linkedin.com/company/mimodent,bad reichenhall,mimodent,bavaria,1-10,mimodent.de
+germany,,9k71912fMZ36BZQoPnHw1gUuYZgp,medical practice,linkedin.com/company/dr.med.-michael-wilk-facharzt-für-dermatologie,nuremberg,dr.med. michael wilk facharzt für dermatologie,bavaria,1-10,hautarzt-dr-wilk.de
+germany,,yYCRnQRB2m2rhHcDOUKRTAYSxFkp,medical practice,linkedin.com/company/dr.-dr.-robert-linsenmann,munich,dr. dr. robert linsenmann,bavaria,1-10,mkg-praxisklinik.com
+germany,,lq0MCALLSWMowk1J27xwGg9JUeXu,medical practice,linkedin.com/company/zahnarzt-praxis-dr.-schmid,kemnath,zahnarzt praxis dr. schmid,bavaria,1-10,zahnarzt-schmid.de
+germany,,mzk3XeNuq3r2WdIODKLBQwbo3Nm5,medical practice,linkedin.com/company/paracelsus-klinik-der-stadt-marl,marl,paracelsus-klinik der stadt marl,north rhine-westphalia,1-10,
+germany,,V2CCzmJtBmldWsWkxM9gRQn1CS6g,medical practice,linkedin.com/company/klinik-rosenhof-betriebs,bad birnbach,klinik rosenhof betriebs,bavaria,1-10,
+germany,,oqmM8B2cz9TJWGrIuFCiGgpm4klf,medical practice,linkedin.com/company/logopädie-xaver-landshut,landshut,logopädie xaver landshut,bavaria,11-50,logopaedie-xaver-landshut.de
+germany,2003,GaLdGOzpNSMqSxdZ0XWsaAefovKQ,medical practice,linkedin.com/company/zmq207,berlin,zmq207,berlin,1-10,zmq207.de
+germany,2016,kMzIXhMUrrbBvKuTMlL6AQlH2hBw,medical practice,linkedin.com/company/hausarztpraxis-hennig,westoverledingen,hausarztpraxis hennig,lower saxony,1-10,hausarztpraxis-hennig.de
+germany,,dBqwrOK4KVs24pwtcc3fcgWS447l,medical practice,linkedin.com/company/hospital-zum-heiligen-geist-gynäkologische-abteilung,geseke,hospital zum heiligen geist gynäkologische abteilung,north rhine-westphalia,1-10,
+germany,,ivGyBaaKyrahlwFjvAbxoA8qgpN8,medical practice,linkedin.com/company/pro-lingua-zentrum-für-logopädie-&-lerntherapie,frankfurt,pro:lingua zentrum für logopädie & lerntherapie,hesse,1-10,
+germany,,xmOpnCWCtRetCmu8GjesZgW7uHUB,medical practice,linkedin.com/company/dr.med.dent.-thorsten-brandt-zahnarzt-für-kieferorthopädie,wiesbaden,dr.med.dent. thorsten brandt zahnarzt für kieferorthopädie,hesse,1-10,thorstenbrandt.de
+germany,,E6OVMVCZC0yysvmN8bqMVQ9BagFI,medical practice,linkedin.com/company/schön-holding-gmbh-&-co.-kg,prien am chiemsee,schön holding gmbh & co. kg,bavaria,1-10,
+germany,,0Up5gT03PdT5ztXJGC6stA1JJZj9,medical practice,linkedin.com/company/frauenarzt-gynäkologen,berlin,frauenarzt gynäkologen,berlin,1-10,
+germany,,5gQ3S0cfiB5FWG9WKJBKIAOE4O6W,medical practice,linkedin.com/company/augenärzte-dr.-kohm-&-kollegen,karlsruhe,augenärzte dr. kohm & kollegen,baden-württemberg,1-10,dr-kohm.de
+germany,,1T9qQ09olseJmLLOalCyhwJc3vAx,medical practice,linkedin.com/company/privatärztlicher-notdienst-kiel,kiel,privatärztlicher notdienst kiel,schleswig-holstein,1-10,privataerztlicher-notdienst-kiel.de
+germany,,ReeB04AqohiSnI264B3XoAlrtEzK,medical practice,linkedin.com/company/praxis-für-neurochirurgie-wirbelsäulentherapie-drs.-patrick-simons,cologne,"praxis für neurochirurgie, wirbelsäulentherapie drs. patrick simons",north rhine-westphalia,1-10,ruecken-doc.de
+germany,,gyGNKi8vrpE1C9yDjFYdxg1mbzGC,medical practice,linkedin.com/company/dentalsplace,berlin,dentalsplace,berlin,11-50,dentalsplace.de
+germany,,i4GaxqFYLBadTBdid6OkMQazB6Tv,medical practice,linkedin.com/company/gzw-gesundheitszentrum-witten,witten,gzw gesundheitszentrum witten,north rhine-westphalia,1-10,gzw-witten.de
+germany,,V4rLDC69s99G6C8u6ZOmjA33dBZz,medical practice,linkedin.com/company/rosenhof-seniorenwohnanlage,ahrensburg,rosenhof seniorenwohnanlage,schleswig-holstein,1-10,
+germany,,gpOl3GULO7o0a2MSmCsXSQBM874G,medical practice,linkedin.com/company/dr.-früh-control-gmbh,kronberg,dr. früh control gmbh,hesse,1-10,frueh-co.de
+germany,,mS2PSDnC6Y72xdOREZKROAoO3Tnh,medical practice,linkedin.com/company/asb-altenpflegeheim,treffurt,asb altenpflegeheim,thuringia,1-10,
+germany,,BFjf82aiHAfYdwun7EcwHQfIdSf2,medical practice,linkedin.com/company/gesundheitswerk.-private-facharztpraxis-dr.-med.-jochen-haack,frankfurt,"gesundheitswerk. private facharztpraxis, dr. med. jochen haack",hesse,1-10,gesundheitswerk.co
+germany,,Be7vX4oxmMtpBL6brryzWAGs3TGH,medical practice,linkedin.com/company/mediprotec-gmbh,hannover,mediprotec gmbh,lower saxony,1-10,mpinstitut.com
+germany,1999,6Y6PXqHiw6hbGs5jt4RYdgTCleOA,medical practice,linkedin.com/company/kieferorthopaedinstarnberg,starnberg,dr. nadja grättinger kieferorthopädie starnberg,bavaria,11-50,kfo-starnberg.de
+germany,1989,Ly4HBI0346fC4tOXD4Jq1gmOfAR9,medical practice,linkedin.com/company/all-dente,kamen,all dente,north rhine-westphalia,11-50,all-dente.de
+germany,,MpvT72ZxC5thV06SzYVlagLYCGZ2,medical practice,linkedin.com/company/käding,ettlingen,käding,baden-württemberg,1-10,
+germany,,jsbUrmCgzzcflBQ8tvwfBQLqyPL6,medical practice,linkedin.com/company/angela-schöder-zahnärztin,halle,angela schöder zahnärztin,saxony-anhalt,1-10,zahnaerztin-schoeder.de
+germany,2016,ZQPYq4tjW7n3R7u038DHGQOdBb1S,medical practice,linkedin.com/company/physiotherapie-marsch-berlin-mitte-gmbh,berlin,physiotherapie marsch berlin-mitte gmbh,berlin,1-10,physiotherapie-berlinmitte.de
+germany,,2dE4OOHCyd5TQz7ad8QFCA89Yy0I,medical practice,linkedin.com/company/dr.-dr.-stroink-&kollegen,düsseldorf,dr. dr. stroink &kollegen,north rhine-westphalia,1-10,
+germany,,Ae3AfXCo6MVbNZ6l8dK0Tg9aHB6v,medical practice,linkedin.com/company/zahnarztpraxis-clemens-schirmer,berlin,zahnarztpraxis clemens schirmer,berlin,1-10,zahnschirm.de
+germany,,xHr97fCVgU5GixxdwsqxSwxWOlcD,medical practice,linkedin.com/company/gemeindepsychiatrisches-zentrum,cloppenburg,gemeindepsychiatrisches zentrum,lower saxony,1-10,
+germany,,CBqTiEpIX2foVnGB9NKVegbfWN04,medical practice,linkedin.com/company/gesellschaft-für-hospital-management-mbh,ratingen,gesellschaft für hospital management mbh,north rhine-westphalia,1-10,
+germany,,qN7atMqt2kh4T3vkTz6BMAiibNTZ,medical practice,linkedin.com/company/mvz-frauenärzte-gg-ried.gmbh,gernsheim,mvz frauenärzte@gg-ried.gmbh,hesse,11-50,frauenaerzte-gg-ried.gmbh
+germany,,xIdd6hzgNs3gJJTrshvRlQo84ZRl,medical practice,linkedin.com/company/naturheilpraxis-n.-wagensommer,mannheim,naturheilpraxis n. wagensommer,baden-württemberg,1-10,wagensommer.de
+germany,1875,TmjSUqEIaYN5sR7UH1oymw1LGq2R,medical practice,linkedin.com/company/hans-meißburger-gmbh,karlsruhe,hans meißburger gmbh,baden-württemberg,11-50,meissburger.de
+germany,,tTceKSiiuc4TRhN0vwwIMQ22up6w,medical practice,linkedin.com/company/dr.-norbert-feigele-zahnarzt,dietmannsried,dr. norbert feigele zahnarzt,bavaria,1-10,praxis-feigele.de
+germany,,5QQesSTs35vbhVYNx0FkCgREA9v0,medical practice,linkedin.com/company/marienstift-altenpflegeheim-bethanien,braunschweig,marienstift altenpflegeheim bethanien,lower saxony,1-10,
+germany,,5neYWBEIN2aqtkhB6Y7sBAP15UxE,medical practice,linkedin.com/company/markus-schulte-hötzel-logopäde,aurich,markus schulte-hötzel logopäde,lower saxony,1-10,schulte-hoetzel.de
+germany,,wf7DSLYHgCgtfFGDAG8G4ArPPnmE,medical practice,linkedin.com/company/fusspflege-und-massagen,flensburg,fusspflege und massagen,schleswig-holstein,1-10,
+germany,,TdhqBwzcAacEOCxjBDaktg1UUyi2,medical practice,linkedin.com/company/scalefriends,potsdam,scalefriends,brandenburg,1-10,scalefriends-berlin.de
+germany,,F2MoseoLFm2hfYhQFCdDDAbEeDO2,medical practice,linkedin.com/company/awo-seniorenzentrum-wörrstadt,wörrstadt,awo seniorenzentrum wörrstadt,rhineland-palatinate,1-10,
+germany,,OQUyaKqmwllczQcg4QCZmgm1tkAt,medical practice,linkedin.com/company/praxis-dr.-jens-enneper,cologne,praxis dr. jens enneper,north rhine-westphalia,1-10,
+germany,,QvcXvKE8aprSunYBOJoeygIxgnpL,medical practice,linkedin.com/company/praxis-anja-hirth-psychotherapie-&-hypnotherapie,ulm,praxis anja hirth psychotherapie & hypnotherapie,baden-württemberg,1-10,praxisanjahirth.de
+germany,,YuCfei2mBatZdICN30E3BwG0rsIT,medical practice,linkedin.com/company/legler-&-partner,,legler & partner,,1-10,leglerundpartner.de
+germany,,HAxhSIX2fvzGDXHqU3oYDQvEGa92,medical practice,linkedin.com/company/augenzentrum-isartal,wolfratshausen,augenzentrum isartal,bavaria,1-10,augenzentrum-isartal.de
+germany,,W1a0W7PHXnDbjZFXABAvmweDraqa,medical practice,linkedin.com/company/sana-gesundheitszentrum-friedrichshain,berlin friedrichshain,sana gesundheitszentrum friedrichshain,berlin,1-10,pgz-berlin.de
+germany,,XEHcy2nGDkHlpioY4kpYig1ifHr9,medical practice,linkedin.com/company/klinikum-wahrendorff-abteilung-psychiatrie,sehnde,klinikum wahrendorff abteilung psychiatrie,lower saxony,1-10,
+germany,,z714oOVz5xWPlE9pcpRTDQOOg4ow,medical practice,linkedin.com/company/gemeinschaftspraxis-dr.med.-jost-elborg-und-brigitta-elborg,wiesbaden,gemeinschaftspraxis dr.med. jost elborg und brigitta elborg,hesse,1-10,gesundheitspartner.de
+germany,,gSEAnEhvbxTO0YhRXTJ3hQIVAcPB,medical practice,linkedin.com/company/zytologisches-institut-nord,bredstedt,zytologisches institut nord,schleswig-holstein,1-10,zytologie-nord.de
+germany,,dfzFo1WQHcnveKaly75DFQUcsV4e,medical practice,linkedin.com/company/dr.-pavel-sefr,hohenberg an der eger,dr. pavel sefr,bavaria,1-10,
+germany,,2U02y21BXP6J0sHCiSQNwwFBgNcf,medical practice,linkedin.com/company/burmester-kruse-ziegler-physiotherapie,schwerin,burmester-kruse-ziegler physiotherapie,mecklenburg-vorpommern,11-50,physiotherapie-ratzeburg.de
+germany,,KmfrqAlw2ChgCx2QChCxlAedwQjs,medical practice,linkedin.com/company/hospital-zum-heiligen-geist-medizinische-klinik,frankfurt,hospital zum heiligen geist medizinische klinik,hesse,1-10,krankenhaus-frankfurt.de
+germany,,JyWiGK0IazPA3fBPyXPtFgowBQH6,medical practice,linkedin.com/company/klinik-dr-baumstark,bad homburg,klinik dr. baumstark,hesse,51-200,klinik-dr-baumstark.de
+germany,,9SBikylvgRCkInPlcRs0BA3xyqBp,medical practice,linkedin.com/company/dr.-yann-niclas-steinhart-zahnarztpraxis-am-marienbad,freiburg im breisgau,dr. yann-niclas steinhart zahnarztpraxis am marienbad,baden-württemberg,1-10,praxis-steinhart.de
+germany,,nNsxT4nTYZlGRWLHVBBG5ARqooCW,medical practice,linkedin.com/company/physiofengler,dransfeld,physiofengler,lower saxony,1-10,physiofengler.de
+germany,,CXPAPqAOBCxHZz6EM0oIxgEkr168,medical practice,linkedin.com/company/shg-klinik-halberg,saarbrücken,shg klinik halberg,saarland,1-10,
+germany,,s5AuifAyS8OFlylXiGrcughIcv2m,medical practice,linkedin.com/company/orthomainfranken,wuerzburg,orthomainfranken,bavaria,11-50,ortho-mainfranken.de
+germany,,ZDCnDZqQIqQZL3777t8KYAUyAdhv,medical practice,linkedin.com/company/praxis-mensch-und-raum,march,praxis mensch und raum,baden-württemberg,1-10,praxis-mensch-raum.de
+germany,,3XBmufWCr3ob9roRkpksGw2Aybzp,medical practice,linkedin.com/company/chinesische-medizin-würzburg-dr.-med.-isabel-wemhöner,wuerzburg,chinesische medizin würzburg | dr. med. isabel wemhöner,bavaria,1-10,goebel-tcm.de
+germany,,nt0oKJ0NKqU4A7CBmL7xFA4M62uV,medical practice,linkedin.com/company/praxisklinik-eulert-kochel,bayreuth,"praxisklinik eulert, kochel",bavaria,1-10,praxisklinik-eulert.de
+germany,,BLd2gnSbmUbCOWIEDc70twH4G0Ag,medical practice,linkedin.com/company/zahnarztpraxis-arztpraxis-aubacke,berlin,zahnarztpraxis / arztpraxis aubacke,berlin,1-10,
+germany,,xcm7UpwnCzEhHLC1wPzoZwtEHEY1,medical practice,linkedin.com/company/schö-be-kfz-von-a-z-gmbh,bernau bei berlin,schö-be kfz von a-z gmbh,brandenburg,1-10,
+germany,,FBrct0D5ORMrbZCM6BD9VgmaUrC4,medical practice,linkedin.com/company/urologische-gemeinschaftspraxis-im-faz,krefeld,urologische gemeinschaftspraxis im faz,north rhine-westphalia,1-10,uro-krefeld.de
+germany,,luoIdtx5cB7pEEmX8YTMZQYGcXqU,medical practice,linkedin.com/company/diabeteszentrum-oberhausen,oberhausen,diabeteszentrum-oberhausen,rhineland-palatinate,1-10,diabeteszentrum-oberhausen.de
+germany,,hbLjvihAgkx1vC3722wLfwuUnbDZ,medical practice,linkedin.com/company/alten--und-pflegeheim-sofienheim,fürth,alten- und pflegeheim sofienheim,bavaria,1-10,
+germany,,VvphBb7nCaSoOvzCsMXtKQ9aK3Cq,medical practice,linkedin.com/company/alb-donau-praxis-jürgen-forkel,staig,alb-donau-praxis jürgen forkel,baden-württemberg,1-10,alb-donau-praxis.de
+germany,,LpxnwDAxpP4TaVYf3JPDBAFmcpo0,medical practice,linkedin.com/company/kommunikation-und-sprache,hagen,kommunikation und sprache,north rhine-westphalia,1-10,kommunikationundsprache.de
+germany,,PABCoBjUQ0AXX0FJAUoF7gOCJjcY,medical practice,linkedin.com/company/ergo-plus-physio,delbrück,ergo plus physio,north rhine-westphalia,1-10,ergoplusphysio.de
+germany,,EiMbjqjhzVNDW27NEuCEtgqNGFqJ,medical practice,linkedin.com/company/van-cuong-dang,frankfurt,van cuong dang,hesse,1-10,
+germany,,CKavTpFBY65auM4gzy6Q5QCbh5Av,medical practice,linkedin.com/company/mathilden-hospital-zu-büdingen,büdingen,mathilden-hospital zu büdingen,hesse,1-10,mathildenhospital-buedingen.de
+germany,,Mvm2M6A4aFBWjhTGurQWygxVUhGo,medical practice,linkedin.com/company/urologikum-hamburg,hamburg,urologikum hamburg,hamburg,11-50,urologikum-hamburg.de
+germany,,rvYPKqBidBK1C99GTFdbaw4Kebs3,medical practice,linkedin.com/company/konzepte-&-heilkunst-gmbh,ergolding,konzepte & heilkunst gmbh,bavaria,1-10,konzepte-und-heilkunst.de
+germany,,RhaGa1WxgRFCWlVbrRxQOQ0Xu9aa,medical practice,linkedin.com/company/praxis-für-logopädie-f.-fuhr,neustadt an der weinstraße,praxis für logopädie f. fuhr,rhineland-palatinate,1-10,logopaedie-boebig.de
+germany,,GdZC2ACSovhul8ZE1x3uIAxEMJJq,medical practice,linkedin.com/company/pro-seniore-residenz,brühl,pro seniore residenz,baden-württemberg,1-10,
+germany,,4asCYCVnbeOy6ENM3KUmQw0tkC3n,medical practice,linkedin.com/company/peggy-weiss-praxis-für-natürliche-heilweisen,waltenhofen,peggy weiss praxis für natürliche heilweisen,bavaria,1-10,freiepraxis.jimdo.com
+germany,,fJdKC2CeYi6buuUwPvgBwgXE1uoi,medical practice,linkedin.com/company/petra-elmendorff-jin-shin-juytso-heilpraktikerin,freiburg im breisgau,petra elmendorff jin shin juytso heilpraktikerin,baden-württemberg,1-10,petra-elmendorff.de
+germany,,xkcwC5a014CAE3HxBZVJDAZJ7NmR,medical practice,linkedin.com/company/unicum.-praxis-für-physiotherapie-logopädie-trainingstherapie,stuttgart,unicum. praxis für physiotherapie / logopädie / trainingstherapie,baden-württemberg,1-10,unicum-stuttgart.de
+germany,,91xqBkgw9dHC4yD5o16WzwcL4Bhl,medical practice,linkedin.com/company/dr.-dr.-helling-dr.-hübler-dr.-rödder,freiburg im breisgau,"dr. dr. helling, dr. hübler, dr. rödder",baden-württemberg,1-10,kieferorthopaedie-freiburg.de
+germany,,n3kbJagEy5KpKtMy0GsG5QfgOzdQ,medical practice,linkedin.com/company/missboy,mahlow,missboy,brandenburg,1-10,missboy.de
+germany,,B9TY7UflDtBa0uTXthIq8QGq3CrM,medical practice,linkedin.com/company/dr.-med.-michael-weidmann,augsburg,dr. med. michael weidmann,bavaria,1-10,
+germany,,qdwaqwR3Y0XBwy4unNErvQQK93C3,medical practice,linkedin.com/company/arberlandklinik,zwiesel,arberlandklinik,bavaria,1-10,kkhzwiesel.de
+germany,,IbGWAFw9whqBT94bzIwbwgF0nk22,medical practice,linkedin.com/company/praxis-dr.-suendorf-dr.-lopez-gonzalez,oberhausen,praxis dr. suendorf / dr. lopez gonzalez,rhineland-palatinate,1-10,praxis-suendorf-lopez.de
+germany,,CU2Xj5y5d7NzDpQK81IxaAPsfEfH,medical practice,linkedin.com/company/dr.med.-jens-ehrmann-facharzt-für-allgemeinmedizin,niedernhall,dr.med. jens ehrmann facharzt für allgemeinmedizin,baden-württemberg,1-10,
+germany,,FaAZkzrChIvs3mFLxX1S6gd2Elzo,medical practice,linkedin.com/company/osteopathie-mühlenberg,issum,osteopathie-mühlenberg,north rhine-westphalia,1-10,osteopathie-muehlenberg.de
+germany,,rgsOWWMqFp5ipEYdrCBskwL7W6Q0,medical practice,linkedin.com/company/augenklinik-kempten,kempten,augenklinik kempten,bavaria,11-50,
+germany,,CimxsmhENzjfuYV7KeOgWA8XZ5sF,medical practice,linkedin.com/company/kfo-heise---kieferorthopädie,bochum,kfo-heise - kieferorthopädie,north rhine-westphalia,11-50,kfo-heise.de
+germany,,ONbfUKd7tQfwbnOgGpx77gtwZvRg,medical practice,linkedin.com/company/dr.med.-dietrich-doepner-facharzt-für-augenheilkunde,peißenberg,dr.med. dietrich doepner facharzt für augenheilkunde,bavaria,1-10,augenarzt-peissenberg.de
+germany,2017,nuuv6mNdNNzN52SBmsISlAeKBud0,medical practice,linkedin.com/company/deichzahnarzt,berlin,deichzahnarzt mvz gmbh,berlin,1-10,lasercentrum-berlin.de
+germany,2017,DrFBBhS0ouvvKC860YsOHA8F5X6l,medical practice,linkedin.com/company/أكاديمية-فرايبورغ-الدولية-فيا-fia-freiburg-international-academy,freiburg im breisgau,أكاديمية فرايبورغ الدولية فيا fia freiburg international academy,baden-württemberg,51-200,
+germany,,vJMFmtBy9Itcqmv7cxCuzQGLJ7Gq,medical practice,linkedin.com/company/dr.med.dent.-gabriele-schindler-hultzsch-zahnärztin,aichach,dr.med.dent. gabriele schindler-hultzsch zahnärztin,bavaria,1-10,
+germany,,Fajvv1TuWY2onn45uWE88QjYJb7W,medical practice,linkedin.com/company/dr.med.dent.-inge-springborn-zahnärztin,bingen am rhein,dr.med.dent. inge springborn zahnärztin,rhineland-palatinate,1-10,springborn-zahnarzt-mainz.de
+germany,,b9NghjBvloDDHTBbNWbAWgBQcUDd,medical practice,linkedin.com/company/physiotherapie-&-osteopathie,dresden,physiotherapie & osteopathie,saxony,11-50,physiotherapie-cossebaude.de
+germany,,a3SfcIJeVfBxeaMP8wrraQdBskGz,medical practice,linkedin.com/company/altenpflegeheim-burghalde,sindelfingen,altenpflegeheim burghalde,baden-württemberg,1-10,
+germany,,GNnDHuqxQfcdxzntucYo8w8EpLXf,medical practice,linkedin.com/company/ivf-saar,saarbrücken,ivf-saar,saarland,11-50,ivf-saar.de
+germany,,IuPg4lZV2C235KGKirIiaAOYdBdn,medical practice,linkedin.com/company/american-dentistry,landstuhl,american dentistry,rhineland-palatinate,1-10,american-dentistry.de
+germany,,yyXwtRhlME4FMKHLqL9HYwrN0kKp,medical practice,linkedin.com/company/nexilis-marketing,berlin,nexilis marketing,berlin,1-10,nexilis-marketing-shop.de
+germany,,U20wOC4bRWBoZPSFWsn3wA2VBk6P,medical practice,linkedin.com/company/praxis-dr.-med.-thomas-ross,berlin,praxis dr. med. thomas ross,berlin,1-10,praxis-ross-berlin.de
+germany,,vB2N249u5X83iGNS3qC8cQ648JcK,medical practice,linkedin.com/company/die-prozahnärzte,schwerin,die prozahnärzte,mecklenburg-vorpommern,11-50,dieprozahnaerzte.de
+germany,,kLFdDo4mwVDh9UvYxrd8TQocGrNV,medical practice,linkedin.com/company/krankenhaus-st.-georg,bad pyrmont,krankenhaus st. georg,lower saxony,1-10,
+germany,,WRnd2TBWAtMxBt4HfynIIQVNFBvO,medical practice,linkedin.com/company/vitanas-senioren-centrum-bellevue,berlin,vitanas senioren centrum bellevue,berlin,1-10,
+germany,,6R4DgYdEIPSvz0MVTGW5Sw6mDzE7,medical practice,linkedin.com/company/gemeinnütziges-alten--und-pflegeheim,schotten,gemeinnütziges alten- und pflegeheim,hesse,1-10,
+germany,,z9FGukl5SPIoRYgnAa9VKAHCJL0o,medical practice,linkedin.com/company/alten--und-pflegeheim-st.-bilhildis,mainz,alten- und pflegeheim st. bilhildis,rhineland-palatinate,1-10,
+germany,,j6c1lHEWVQ1GIPIfsYFqvQXCghDD,medical practice,linkedin.com/company/institut-für-fortschrittliche-physiotherapie-münchen,munich,institut für fortschrittliche physiotherapie münchen,bavaria,11-50,institut-physiotherapie.de
+germany,,KyTpdaCVbccBD58KGLbWiQhdj179,medical practice,linkedin.com/company/mundgesund,anröchte,mundgesund,north rhine-westphalia,11-50,zahnarzt.bio
+germany,,tmF1syLU0kVA5e3lvnMGWglgIBu8,medical practice,linkedin.com/company/gemeinschaftspraxis-dr.-blanke-&-partner,oyten,gemeinschaftspraxis dr. blanke & partner,lower saxony,1-10,blanke-partner.de
+germany,,dhiHU3GhJJ69JQi8JpbiwACNk3Db,medical practice,linkedin.com/company/naturheilpraxis-vogelsberg,schwalmtal,naturheilpraxis vogelsberg,hesse,1-10,naturheilpraxis-vogelsberg.de
